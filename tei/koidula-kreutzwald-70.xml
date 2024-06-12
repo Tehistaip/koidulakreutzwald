@@ -1,0 +1,3442 @@
+<text xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <body>
+    <h2 author="KREUTZWALD" number="70" source="EKM EKLA, f 59, m 1:6, l. 36">70. KREUTZWALD KOIDULALE.</h2>
+    <source>EKM EKLA, f 59, m 1:6, l. 36</source>
+    <p>
+      <div orig="toim">
+        <s>
+          <pc lemma="[" pos="Z" msd="">[</pc>
+          <date when="1870-05-17">
+            <w lemma="17." pos="O" msd="?">17.</w>
+            <w lemma="maa|mai" pos="S" msd="Pl.Ade|Sg.Ade">mail</w>
+            <w lemma="1870." pos="O" msd="?">1870.</w>
+          </date>
+        </s>
+        <s>
+          <pc lemma="]" pos="Z" msd="">]</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="kas" pos="D" msd="">Kas</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Cond">peaks</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="säärane" pos="P" msd="Pl.Par">sääraseid</w>
+          <w lemma="inimene" pos="S" msd="Pl.Par">inimesi</w>
+          <w lemma="leidma" pos="V" msd="Impers.Sup">leitama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="elusaatus" pos="S" msd="Sg.Com">elusaatusega</w>
+          <w lemma="täiesti" pos="D" msd="">täiesti</w>
+          <w lemma="rahul" pos="D" msd="">rahul</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <pc lemma="?" pos="Z" msd="">?</pc>
+        </s>
+        <s>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">Mis</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="arvama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">arvate</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <w lemma="tütreke" pos="S" msd="Sg.Nom">tütreke</w>
+          <pc lemma="?" pos="Z" msd="">?</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="mina" pos="P" msd="Sg.Nom">Mina</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">olen</w>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="küsimus" pos="S" msd="Sg.Gen">küsimuse</w>
+          <w lemma="üle" pos="K" msd="">üle</w>
+          <w lemma="küllalt" pos="D" msd="">küllalt</w>
+          <w lemma="palju" pos="D" msd="">palju</w>
+          <w lemma="pea" pos="S" msd="Sg.Par">pead</w>
+          <w lemma="murdma|murdnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">murdnud</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="äranägemine" pos="S" msd="Sg.Par">äranägemist</w>
+          <w lemma="mööda" pos="K" msd="">mööda</w>
+          <w lemma="tohtima" pos="V" msd="Pers.Prs.Cond">tohiks</w>
+          <w lemma="seepeale" pos="D" msd="">seepeale</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="hõlpsasti" pos="D" msd="">hõlpsasti</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="ütlema" pos="V" msd="Inf">ütelda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="aga" pos="J" msd="">Aga</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Imprt">olgu</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="siin" pos="D" msd="">siin</w>
+          <w lemma="ainult" pos="D" msd="">ainult</w>
+          <w lemma="möödaminnes" pos="D" msd="">möödaminnes</w>
+          <w lemma="tähendama|tähendatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">tähendatud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="kõigepealt" pos="D" msd="">Kõigepealt</w>
+          <w lemma="laskma" pos="V" msd="Pers.Prs.Imprt.Pl.2">laske</w>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="patt" pos="S" msd="Sg.Par">pattu</w>
+          <w lemma="kahetsema" pos="V" msd="Inf">kahetseda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="ees" pos="K" msd="">ees</w>
+          <w lemma="jälle" pos="D" msd="">jälle</w>
+          <w lemma="kahekordne" pos="A" msd="Sg.Tra">kahekordseks</w>
+          <w lemma="võlglane" pos="S" msd="Sg.Tra">võlglaseks</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">olen</w>
+          <w lemma="saama|saanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">saanud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kusjuures" pos="D" msd="">kusjuures</w>
+          <w lemma="mina" pos="P" msd="Sg.Ade">mul</w>
+          <w lemma="paraku" pos="D" msd="">paraku</w>
+          <w lemma="lootus" pos="S" msd="Sg.Par">lootustki</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="ise" pos="P" msd="Sg.Par">ennast</w>
+          <w lemma="see" pos="P" msd="Sg.Ine">ses</w>
+          <w lemma="tükk" pos="S" msd="Sg.Ine">tükis</w>
+          <w lemma="parandama" pos="V" msd="Inf">parandada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="just" pos="D|I" msd="">just</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teiegi</w>
+          <w lemma="armas" pos="A" msd="Sg.Gen">armsa</w>
+          <w lemma="jumal" pos="S" msd="Sg.Gen">jumala</w>
+          <w lemma="komme" pos="S" msd="Sg.Ade">kombel</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
+          <w lemma="teoloog" pos="S" msd="Pl.Nom">teoloogid</w>
+          <w lemma="õpetama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">õpetavad</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="patukahetsemine" pos="S" msd="Sg.Par">patukahetsemist</w>
+          <w lemma="tegu|tigu" pos="S" msd="Sg.Tra">teoks</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="arvama" pos="V" msd="Pers.Prs.Ind.Neg">arva</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="viimane" pos="A" msd="Sg.Nom">viimane</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="roosa" pos="A" msd="Sg.Nom">roosa</w>
+          <w lemma="värv" pos="S" msd="Sg.Com">värviga</w>
+          <w lemma="kirjutama|kirjutatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">kirjutatud</w>
+          <w lemma="sõnumik" pos="S" msd="Sg.Nom">sõnumik</w>
+          <w lemma="9." pos="O" msd="?">9.</w>
+          <w lemma="skp" pos="Y" msd="Sg.Ela">skp-st</w>
+          <w lemma="jõudma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">jõudis</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="kätte" pos="K" msd="">kätte</w>
+          <date when="2023-12-19">
+            <w lemma="täna" pos="D" msd="">täna</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="õigemini" pos="D" msd="">õigemini</w>
+          <w lemma="ütlema" pos="V" msd="Inf">öelda</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <date when="2023-12-18TMO">
+            <w lemma="eile" pos="D" msd="">eile</w>
+            <w lemma="ennelõuna" pos="S" msd="Sg.Par">ennelõunat</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuid" pos="J" msd="">kuid</w>
+          <w lemma="lugema" pos="V" msd="Inf">lugeda</w>
+          <w lemma="saama" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">sain</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="alles" pos="D" msd="">alles</w>
+          <date when="2023-12-18TEV">
+            <w lemma="õhtu" pos="S" msd="Sg.Ade">õhtul</w>
+          </date>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="eelmine" pos="A" msd="Sg.Nom">Eelmine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="2." pos="O" msd="?">2.</w>
+          <w lemma="skp" pos="Y" msd="?">skp</w>
+          <w lemma="kiri" pos="S" msd="Sg.Nom">kiri</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">oli</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="nobedamini" pos="D" msd="">nobedamini</w>
+          <w lemma="tulema|tulnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">tulnud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="aidanud|aitama" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">aidanud</w>
+          <w lemma="ühti" pos="D" msd="">ühti</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="vastamine" pos="S" msd="Sg.Tra">vastamiseks</w>
+          <w lemma="mahti" pos="X" msd="">mahti</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema|olnud" pos="A|V" msd="Pers.Prt.Ind.Neg|Pl.Nom|Sg.Nom">olnud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="et" pos="J" msd="">Et</w>
+          <date when="2023-12-19">
+            <w lemma="täna" pos="D" msd="">täna</w>
+          </date>
+          <w lemma="parajasti" pos="D" msd="">parajasti</w>
+          <date when="2023-12-24">
+            <w lemma="pühapäev" pos="S" msd="Sg.Nom">pühapäev</w>
+          </date>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="ühtlasi" pos="D" msd="">ühtlasi</w>
+          <w lemma="postipäev" pos="S" msd="Sg.Nom">postipäev</w>
+          <name type="B-LOC">
+            <w lemma="Tartu" pos="H" msd="Sg.Ill">Tartusse</w>
+          </name>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siis" pos="J" msd="">siis</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">saab</w>
+          <w lemma="esimene" pos="O" msd="Sg.Nom">esimene</w>
+          <w lemma="hommikutund" pos="S" msd="Sg.Nom">hommikutund</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="uni" pos="S" msd="Sg.All">unele</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="J" msd="">vaid</w>
+          <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="kallis" pos="A" msd="Sg.Nom">kallis</w>
+          <w lemma="sõbranna" pos="S" msd="Sg.Nom">sõbranna</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="pühendama|pühendatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">pühendatud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="mispärast" pos="D" msd="">Mispärast</w>
+          <w lemma="tegema" pos="V" msd="Pers.Prt.Ind.Pl.2.Aff">tegite</w>
+          <w lemma="ometi" pos="D" msd="">ometi</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="süda" pos="S" msd="Sg.Gen">südame</w>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="raske" pos="A" msd="Sg.Tra">raskeks</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="võtma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">võtate</w>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="ilus" pos="A" msd="Pl.Par">ilusaid</w>
+          <w lemma="väljavaade" pos="S" msd="Pl.Par">väljavaateid</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="silm" pos="S" msd="Sg.Ill">silma</w>
+          <w lemma="ette" pos="D" msd="">ette</w>
+          <w lemma="nõiduma" pos="V" msd="Inf">nõiduda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Te</w>
+          <w lemma="ise" pos="P" msd="Pl.Nom|Sg.Nom">ise</w>
+          <w lemma="teadma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">teate</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="paradiis" pos="S" msd="Sg.Gen">paradiisi</w>
+          <w lemma="värav" pos="S" msd="Pl.Nom">väravad</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="kammits" pos="S" msd="Sg.Ill">kammitsasse</w>
+          <w lemma="pandud|panema" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">pandud</w>
+          <w lemma="jalg" pos="S" msd="Pl.All">jalgadele</w>
+          <w lemma="kinni" pos="D" msd="">kinni</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">peavad</w>
+          <w lemma="jääma" pos="V" msd="Pers.Sup.Ill">jääma</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="kui" pos="D|J" msd="">Kui</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="paljukene" pos="A" msd="Sg.Par">paljukest</w>
+          <w lemma="aeg" pos="S" msd="Sg.Par">aega</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Ind.Neg">saa</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="kiri" pos="S" msd="Sg.All">kirjalegi</w>
+          <w lemma="rahulikult" pos="D" msd="">rahulikult</w>
+          <w lemma="vastama" pos="V" msd="Inf">vastata</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="pettepilt" pos="S" msd="Pl.Par">pettepilte</w>
+          <w lemma="tohtima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tohib</w>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="kümnepenikoormane" pos="A" msd="Sg.Ela">kümnepenikoormasest</w>
+          <w lemma="reis" pos="S" msd="Sg.Ela">reisist</w>
+          <w lemma="hellitama" pos="V" msd="Inf">hellitada</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Nom">See</w>
+          <w lemma="kurblik" pos="A" msd="Sg.Nom">kurblik</w>
+          <date when="2024-05">
+            <w lemma="maikuu" pos="S" msd="Sg.Gen">maikuu</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="nimepidi" pos="D" msd="">nimepidi</w>
+          <w lemma="kalender" pos="S" msd="Sg.Ine">kalendris</w>
+          <w lemma="seisma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">seisab</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Ela|Sg.Ela">millest</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="loodus" pos="S" msd="Sg.Ine">looduses</w>
+          <w lemma="siiamaani" pos="D" msd="">siiamaani</w>
+          <w lemma="peaaegu" pos="D" msd="">peaaegu</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
+          <w lemma="märkama" pos="V" msd="Inf">märgata</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="olema|olnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">olnud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="inimeselaps" pos="S" msd="Pl.All">inimeselastele</w>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="rohkesti" pos="D" msd="">rohkesti</w>
+          <w lemma="tõbi" pos="S" msd="Pl.Par">tõbesid</w>
+          <w lemma="tooma|toonud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">toonud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="vaene" pos="A" msd="Pl.Nom">vaesed</w>
+          <w lemma="tervisevaht" pos="S" msd="Pl.Nom">tervisevahid</w>
+          <w lemma="enam" pos="D" msd="">enam</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="teadma" pos="V" msd="Pers.Prs.Ind.Neg">tea</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuidas" pos="D" msd="">kuidas</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="päevatöö" pos="S" msd="Sg.Com">päevatööga</w>
+          <w lemma="toim|toime" pos="S" msd="Sg.Ill">toime</w>
+          <w lemma="tulema" pos="V" msd="Inf">tulla</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="laps" pos="S" msd="Pl.Gen">Laste</w>
+          <w lemma="hulgas" pos="K" msd="">hulgas</w>
+          <w lemma="möllama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">möllavad</w>
+          <w lemma="ühekorraga" pos="D" msd="">ühekorraga</w>
+          <w lemma="punetised" pos="S" msd="Pl.Nom">punetised</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sarlakid" pos="S" msd="Pl.Nom">sarlakid</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="leetrid" pos="S" msd="Pl.Nom">leetrid</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="kõrval" pos="D" msd="">kõrval</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="väga" pos="D" msd="">väga</w>
+          <w lemma="kurjaloomuline" pos="A" msd="Sg.Nom">kurjaloomuline</w>
+          <w lemma="kurgupõletik" pos="S" msd="Sg.Nom">kurgupõletik</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kõnelema" pos="V" msd="Pers.Sup.Abe">kõnelemata</w>
+          <w lemma="kõik" pos="P" msd="Pl.Ela">kõigist</w>
+          <w lemma="see" pos="P" msd="Pl.Ela">neist</w>
+          <w lemma="ihuhäda" pos="S" msd="Pl.Ela">ihuhädadest</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="heitlik" pos="A" msd="Pl.Nom">heitlikud</w>
+          <w lemma="ilm" pos="S" msd="Pl.Nom">ilmad</w>
+          <w lemma="täiskasvanu" pos="S" msd="Pl.All">täiskasvanutele</w>
+          <w lemma="kael" pos="S" msd="Sg.Ill">kaela</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="saatma|saatnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">saatnud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kõik" pos="P" msd="Sg.All">Kõigele</w>
+          <w lemma="lisa" pos="S" msd="Sg.Tra">lisaks</w>
+          <w lemma="tulema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">tuli</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Nom">üks</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="igav" pos="A" msd="Sg.Nom">igav</w>
+          <w lemma="statistikaline" pos="A" msd="Sg.Nom">statistikaline</w>
+          <w lemma="töö" pos="S" msd="Sg.Nom">töö</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="ex" pos="Y" msd="?">ex</w>
+          <w lemma="officio" pos="S" msd="Sg.Nom">officio</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Gen|Sg.Gen">mille</w>
+          <w lemma="peale" pos="K" msd="">peale</w>
+          <w lemma="viimane" pos="A" msd="Sg.Gen">viimase</w>
+          <w lemma="kolm" pos="N" msd="Sg.Gen">kolme</w>
+          <w lemma="nädal" pos="S" msd="Sg.Gen">nädala</w>
+          <w lemma="jooksul" pos="K" msd="">jooksul</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="see" pos="P" msd="Pl.Nom">need</w>
+          <w lemma="tund" pos="S" msd="Pl.Nom">tunnid</w>
+          <w lemma="kulu" pos="S" msd="Pl.Par">kulusid</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="ametitalitus" pos="S" msd="Pl.Nom">ametitalitused</w>
+          <w lemma="vaba" pos="A" msd="Sg.Tra">vabaks</w>
+          <w lemma="jätma" pos="V" msd="Pers.Prt.Ind.Pl.3.Aff">jätsid</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="8." pos="O" msd="?">8.</w>
+          <w lemma="skp" pos="Y" msd="?">skp</w>
+          <w lemma="jõudma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">jõudis</w>
+          <w lemma="pärale" pos="D" msd="">pärale</w>
+          <w lemma="uus" pos="A" msd="Sg.Gen">uue</w>
+          <w lemma="kreisiarst" pos="S" msd="Sg.Gen">kreisiarsti</w>
+          <w lemma="amet" pos="S" msd="Sg.Ill">ametisse</w>
+          <w lemma="kinnitamine" pos="S" msd="Sg.Nom">kinnitamine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.All|Sg.All">kellele</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="tulema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">tuli</w>
+          <w lemma="üle" pos="D" msd="">üle</w>
+          <w lemma="andma" pos="V" msd="Inf">anda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="vaheaeg" pos="S" msd="Sg.Ade">vaheajal</w>
+          <w lemma="tema" pos="P" msd="Sg.Gen">tema</w>
+          <w lemma="asetäitmine" pos="S" msd="Sg.Gen">asetäitmise</w>
+          <w lemma="tegevus" pos="S" msd="Sg.Gen">tegevuse</w>
+          <w lemma="ajal" pos="K" msd="">ajal</w>
+          <w lemma="ette" pos="D" msd="">ette</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">oli</w>
+          <w lemma="tulema|tulnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">tulnud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Pl.Gen">Nende</w>
+          <w lemma="märkus" pos="S" msd="Pl.Gen">märkuste</w>
+          <w lemma="põhjal" pos="K" msd="">põhjal</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">võite</w>
+          <w lemma="ise" pos="P" msd="Sg.All">endale</w>
+          <w lemma="hõlpsasti" pos="D" msd="">hõlpsasti</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="elu" pos="S" msd="Sg.Ela">elust</w>
+          <w lemma="pildike" pos="S" msd="Sg.Gen">pildikese</w>
+          <w lemma="silm" pos="S" msd="Sg.Ill">silma</w>
+          <w lemma="ette" pos="D" msd="">ette</w>
+          <w lemma="maalima" pos="V" msd="Inf">maalida</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="sugugi" pos="D" msd="">Sugugi</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="ebaviisakus" pos="S" msd="Sg.Nom">ebaviisakus</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="J" msd="">vaid</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="suur" pos="A" msd="Sg.Nom">suur</w>
+          <w lemma="lahkuma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">lahkus</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">oli</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="poolt" pos="K" msd="">poolt</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="kallis" pos="A" msd="Sg.Nom">kallis</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="vastus" pos="S" msd="Sg.Par">vastust</w>
+          <w lemma="ära" pos="D" msd="">ära</w>
+          <w lemma="ootama" pos="V" msd="Pers.Sup.Abe">ootamata</w>
+          <w lemma="mina" pos="P" msd="Sg.All">mulle</w>
+          <w lemma="uuesti" pos="D" msd="">uuesti</w>
+          <w lemma="kirjutama" pos="V" msd="Pers.Prt.Ind.Pl.2.Aff">kirjutasite</w>
+          <pc lemma=";" pos="Z" msd="">;</pc>
+          <w lemma="see" pos="P" msd="Pl.Nom">need</w>
+          <w lemma="ju" pos="D" msd="">ju</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="ainuke|ainukene" pos="A" msd="Pl.Nom">ainukesed</w>
+          <w lemma="hele" pos="A" msd="Pl.Nom">heledad</w>
+          <w lemma="silmapilk" pos="S" msd="Pl.Nom">silmapilgud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="hämar" pos="A" msd="Sg.Par">hämarat</w>
+          <w lemma="elu" pos="S" msd="Sg.Par">elu</w>
+          <w lemma="vähemalt" pos="D" msd="">vähemalt</w>
+          <w lemma="mõni" pos="P" msd="Sg.Tra">mõneks</w>
+          <w lemma="viiv" pos="S" msd="Sg.Tra">viivukski</w>
+          <w lemma="pisut" pos="D" msd="">pisut</w>
+          <w lemma="valgustama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">valgustavad</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="küllap" pos="D" msd="">Küllap</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Kalevipoeg" pos="H" msd="Sg.Gen">Kalevipoja</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="lugemine" pos="S" msd="Sg.Gen">lugemise</w>
+          <w lemma="juures" pos="K" msd="">juures</w>
+          <w lemma="sügavam" pos="C" msd="Sg.Nom">sügavam</w>
+          <w lemma="asi" pos="S" msd="Sg.Gen">asja</w>
+          <w lemma="sisu" pos="S" msd="Sg.Ill">sisusse</w>
+          <w lemma="tungimine" pos="S" msd="Sg.Nom">tungimine</w>
+          <w lemma="kinnitama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">kinnitab</w>
+          <w lemma="sina" pos="P" msd="Pl.Ade">Teil</w>
+          <w lemma="peagi" pos="D" msd="">peagi</w>
+          <w lemma="nii" pos="D" msd="">nii</w>
+          <w lemma="pikalt" pos="D" msd="">pikalt</w>
+          <w lemma="tiib" pos="S" msd="Pl.Gen">tiibade</w>
+          <w lemma="ramm" pos="S" msd="Sg.Par">rammu</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="ilma" pos="K" msd="">ilma</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="abi" pos="S" msd="Sg.Abe">abita</w>
+          <w lemma="esialgne" pos="A" msd="Pl.Ela">esialgsetest</w>
+          <w lemma="raskus" pos="S" msd="Pl.Ela">raskustest</w>
+          <w lemma="hõlpsasti" pos="D" msd="">hõlpsasti</w>
+          <w lemma="üle" pos="D" msd="">üle</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">saate</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="liiati" pos="D" msd="">Liiati</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Quot">pidavat</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="hiljuti" pos="D" msd="">hiljuti</w>
+          <w lemma="ustav" pos="A" msd="Sg.Ela">ustavast</w>
+          <w lemma="allikas" pos="S" msd="Sg.Ela">allikast</w>
+          <w lemma="kuulma" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">kuulsin</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="Löwe" pos="H" msd="Sg.Nom">Löwe</w>
+          <w lemma="tõepoolest" pos="D" msd="">tõepoolest</w>
+          <w lemma="ümberpanek" pos="S" msd="Sg.Gen">ümberpaneku</w>
+          <w lemma="tegema" pos="V" msd="Pers.Sup.Ill">tegema</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="kui" pos="D|J" msd="">Kui</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="esimene" pos="O" msd="Sg.Par">esimest</w>
+          <w lemma="teade" pos="S" msd="Sg.Par">teadet</w>
+          <name type="B-PER">
+            <w lemma="Dörptsche" pos="H" msd="Sg.Nom">Dörptsche</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Zeitung" pos="H" msd="Sg.Ine">Zeitungis</w>
+          </name>
+          <w lemma="lugema" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">lugesin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="pidama" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">pidasin</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="kuulujutt" pos="S" msd="Sg.Tra">kuulujutuks</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="puru" pos="S" msd="Sg.Nom">puru</w>
+          <w lemma="silmaajamine" pos="S" msd="Sg.Tra">silmaajamiseks</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sest" pos="J" msd="">sest</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="kindlasti" pos="D" msd="">kindlasti</w>
+          <w lemma="teadma" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">teadsin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="elutsema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">elutses</w>
+          <w lemma="dr" pos="Y" msd="?">dr.</w>
+          <w lemma="Löwe" pos="H" msd="Sg.Nom">Löwe</w>
+          <w lemma="see" pos="P" msd="Sg.Ade">sel</w>
+          <w lemma="aeg" pos="S" msd="Sg.Ade">ajal</w>
+          <name type="B-LOC">
+            <w lemma="Stuttgart|Stuttgarti" pos="H" msd="Sg.Ine">Stuttgartis</w>
+          </name>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="pidama" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">pidi</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="leht" pos="S" msd="Sg.Gen">lehe</w>
+          <w lemma="teade" pos="S" msd="Sg.Ade">teatel</w>
+          <name type="B-LOC">
+            <w lemma="Peterburi" pos="H" msd="Sg.Ela">Peterburist</w>
+          </name>
+          <name type="B-LOC">
+            <w lemma="Tallinn" pos="H" msd="Sg.Par">Tallinna</w>
+          </name>
+          <w lemma="kolima" pos="V" msd="Pers.Sup.Ill">kolima</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="ainuüksi" pos="D" msd="">ainuüksi</w>
+          <w lemma="sellepärast" pos="D" msd="">sellepärast</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">olin</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="kindel" pos="A" msd="Sg.Nom">kindel</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="kogu" pos="A" msd="">kogu</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="sõnum" pos="S" msd="Sg.Nom">sõnum</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">pidi</w>
+          <w lemma="olema" pos="V" msd="Pers.Sup.Ill">olema</w>
+          <w lemma="tuul" pos="S" msd="Sg.Ela">tuulest</w>
+          <w lemma="võetud|võtma" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">võetud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="nagu" pos="D|J" msd="">Nagu</w>
+          <w lemma="Schiefner" pos="H" msd="Sg.Nom">Schiefner</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="väimees" pos="S" msd="Sg.All">väimehele</w>
+          <w lemma="kirjutama" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">kirjutas</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Quot">olevat</w>
+          <w lemma="Löwe" pos="H" msd="Sg.Gen">Löwe</w>
+          <w lemma="ümberpanemine" pos="S" msd="Sg.Com">ümberpanemisega</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="algus" pos="S" msd="Sg.Par">algust</w>
+          <w lemma="tegema|teinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">teinud</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tahtev" pos="A" msd="Sg.Par">tahtvat</w>
+          <date when="2023-06">
+            <w lemma="juuni" pos="S" msd="Sg.Gen">juuni</w>
+          </date>
+          <w lemma="hakatus" pos="S" msd="Sg.Ine">hakatuses</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="umbes" pos="D" msd="">umbes</w>
+          <w lemma="6." pos="O" msd="?">6.</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="7." pos="O" msd="?">7.</w>
+          <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
+          <w lemma="kalender" pos="S" msd="Sg.Gen">kalendri</w>
+          <w lemma="järgi" pos="K" msd="">järgi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <name type="B-LOC">
+            <w lemma="Tallinn" pos="H" msd="Sg.Gen">Tallinna</w>
+          </name>
+          <w lemma="sõitma" pos="V" msd="Inf">sõita</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="töö" pos="S" msd="Sg.Par">tööd</w>
+          <w lemma="lõpetama" pos="V" msd="Inf">lõpetada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="loodetavasti" pos="D" msd="">Loodetavasti</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Ind.Pl.1.Aff">saame</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="seega" pos="D" msd="">seega</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Kalevipoeg" pos="H" msd="Sg.Ela">Kalevipojast</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="üks" pos="N|P" msd="Sg.Gen">ühe</w>
+          <w lemma="säärane" pos="P" msd="Sg.Gen">säärase</w>
+          <w lemma="tõlge" pos="S" msd="Sg.Gen">tõlke</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="tõetruudus" pos="S" msd="Sg.Gen">tõetruuduse</w>
+          <w lemma="poolest" pos="K" msd="">poolest</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="ennemuistne" pos="A" msd="Pl.Ela">Ennemuistsetest</w>
+          <w lemma="jutt" pos="S" msd="Pl.Ela">juttudest</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="maha" pos="D" msd="">maha</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="jääma" pos="V" msd="Pers.Prs.Ind.Neg">jää</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Par">Teid</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="õnnelik" pos="A" msd="Sg.Nom">õnnelik</w>
+          <w lemma="laps" pos="S" msd="Sg.Nom">laps</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="panema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">panevad</w>
+          <w lemma="ilutsema" pos="V" msd="Pers.Sup.Ill">ilutsema</w>
+          <w lemma="loodus" pos="S" msd="Sg.Gen">looduse</w>
+          <w lemma="haljendamine" pos="S" msd="Sg.Nom">haljendamine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="allikas" pos="S" msd="Pl.Gen">allikate</w>
+          <w lemma="vulin" pos="S" msd="Sg.Nom">vulin</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="puu|puue" pos="S" msd="Pl.Gen|Sg.Gen">puude</w>
+          <w lemma="kohisemine" pos="S" msd="Sg.Nom">kohisemine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.All">minule</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="see" pos="P" msd="Pl.Nom">need</w>
+          <w lemma="tänini" pos="D" msd="">tänini</w>
+          <w lemma="üsna" pos="D" msd="">üsna</w>
+          <w lemma="tundma" pos="V" msd="Pers.Sup.Abe">tundmata</w>
+          <w lemma="asi" pos="S" msd="Pl.Nom">asjad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="silm" pos="S" msd="Pl.Nom">silmad</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="kõrv" pos="S" msd="Pl.Nom">kõrvad</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="mahti" pos="X" msd="">mahti</w>
+          <w lemma="saama|saanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">saanud</w>
+          <w lemma="see" pos="P" msd="Sg.Ela">sellest</w>
+          <w lemma="kõik" pos="P" msd="Sg.Ela">kõigest</w>
+          <w lemma="mõnu" pos="S" msd="Sg.Par">mõnu</w>
+          <w lemma="tundma" pos="V" msd="Inf">tunda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="isegi" pos="D" msd="">Isegi</w>
+          <w lemma="majaõu" pos="S" msd="Sg.Ine">majaõues</w>
+          <w lemma="kasvav" pos="A" msd="Pl.Par">kasvavaid</w>
+          <w lemma="puu" pos="S" msd="Pl.Par">puid</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond.Neg">poleks</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="õieti" pos="D" msd="">õieti</w>
+          <w lemma="märkama" pos="V" msd="Pers.Prt.Prc">märganudki</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuigi" pos="D|J" msd="">kuigi</w>
+          <w lemma="see" pos="P" msd="Pl.Nom">need</w>
+          <w lemma="ju" pos="D" msd="">ju</w>
+          <w lemma="küllalt" pos="D" msd="">küllalt</w>
+          <w lemma="lähedal" pos="D" msd="">lähedal</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="tema" pos="P" msd="Pl.Gen">nende</w>
+          <w lemma="vastu" pos="K" msd="">vastu</w>
+          <w lemma="nina" pos="S" msd="Sg.Com">ninaga</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond">võiks</w>
+          <w lemma="põrkama" pos="V" msd="Inf">põrgata</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="kes" pos="P" msd="Pl.Gen|Sg.Gen">Kelle</w>
+          <w lemma="pea" pos="S" msd="Sg.Ine">peas</w>
+          <w lemma="hommik" pos="S" msd="Sg.Ela">hommikust</w>
+          <w lemma="õhtu" pos="S" msd="Sg.Trm">õhtuni</w>
+          <w lemma="hoopis" pos="D" msd="">hoopis</w>
+          <w lemma="teine" pos="O|P" msd="Pl.Nom">teised</w>
+          <w lemma="asi" pos="S" msd="Pl.Nom">asjad</w>
+          <w lemma="kubisema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">kubisevad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="käima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">käib</w>
+          <w lemma="ringi" pos="D" msd="">ringi</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="pooluni" pos="S" msd="Sg.Ine">poolunes</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ilma" pos="D" msd="">ilma</w>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
+          <w lemma="nägema" pos="V" msd="Pers.Prs.Cond">näeks</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="kuulma" pos="V" msd="Pers.Prs.Cond">kuuleks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="teadma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">teate</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="väga" pos="D" msd="">väga</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="värske" pos="A" msd="Sg.Ine">värskes</w>
+          <w lemma="õhk" pos="S" msd="Sg.Ine">õhus</w>
+          <w lemma="jalutamine" pos="S" msd="Sg.Par">jalutamist</w>
+          <w lemma="armastama" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">armastan</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="kõige" pos="D" msd="">kõige</w>
+          <w lemma="halvem" pos="C" msd="Sg.Gen">halvema</w>
+          <w lemma="ilm" pos="S" msd="Sg.Com">ilmaga</w>
+          <w lemma="naljalt" pos="D" msd="">naljalt</w>
+          <w lemma="tegema" pos="V" msd="Pers.Sup.Abe">tegemata</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="jätma" pos="V" msd="Pers.Prs.Ind.Neg">jäta</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ometi" pos="D" msd="">ometi</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="ise" pos="P" msd="Sg.All">endale</w>
+          <date when="2023-SP">
+            <w lemma="tänavu" pos="D" msd="">tänavu</w>
+            <w lemma="kevad|kevade" pos="S" msd="Sg.Ade">kevadel</w>
+          </date>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="lõbu" pos="S" msd="Sg.Par">lõbu</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <w lemma="lubama" pos="V" msd="Inf">lubada</w>
+          <w lemma="võima|võinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">võinud</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="ainult" pos="D" msd="">ainult</w>
+          <w lemma="kaks" pos="N" msd="Sg.Nom">kaks</w>
+          <w lemma="kord" pos="S" msd="Sg.Par">korda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="säärane" pos="P" msd="Sg.Gen">Säärase</w>
+          <w lemma="eluviis" pos="S" msd="Sg.Gen">eluviisi</w>
+          <w lemma="juures" pos="K" msd="">juures</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">võib</w>
+          <w lemma="ju" pos="D" msd="">ju</w>
+          <w lemma="inimene" pos="S" msd="Sg.Nom">inimene</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="parem" pos="C" msd="Pl.Nom">paremad</w>
+          <w lemma="tundmus" pos="S" msd="Pl.Nom">tundmused</w>
+          <w lemma="sootuks" pos="D" msd="">sootuks</w>
+          <w lemma="kaotama" pos="V" msd="Inf">kaotada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <date when="2023-12-17">
+            <w lemma="paar" pos="N" msd="Sg.Gen">Paari</w>
+            <w lemma="päev" pos="S" msd="Sg.Gen">päeva</w>
+            <w lemma="eest" pos="K" msd="">eest</w>
+          </date>
+          <w lemma="silmitsema" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">silmitsesin</w>
+          <w lemma="möödaminnes" pos="D" msd="">möödaminnes</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="vana" pos="A" msd="Sg.Par">Vana</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="uus" pos="A" msd="Sg.Par">uut</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Par|Sg.Par">mida</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="muidugi" pos="D" msd="">muidugi</w>
+          <w lemma="lugema|lugenud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">lugenud</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="seal" pos="D" msd="">Seal</w>
+          <w lemma="ju" pos="D" msd="">ju</w>
+          <w lemma="leiduma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">leidub</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Nom">üks</w>
+          <name type="B-PER">
+            <w lemma="Schiller" pos="H" msd="Sg.Gen">Schilleri</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="kellalaul" pos="S" msd="Sg.Gen">Kellalaulu</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="ümberpanek" pos="S" msd="Sg.Nom">ümberpanek</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tõenäolikult" pos="D" msd="">tõenäolikult</w>
+          <w lemma="pastor" pos="S" msd="Sg.Nom">pastor</w>
+          <w lemma="malm" pos="S" msd="Sg.Gen">Malmi</w>
+          <w lemma="sulg" pos="S" msd="Sg.Ela">sulest</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Nom">See</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="igatahes" pos="D" msd="">igatahes</w>
+          <w lemma="siledam" pos="C" msd="Sg.Nom">siledam</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="oma" pos="A" msd="Sg.Ade">omal</w>
+          <w lemma="aeg" pos="S" msd="Sg.Ade">ajal</w>
+          <name type="B-LOC">
+            <w lemma="Pärnu" pos="H" msd="Sg.Ine">Pärnus</w>
+          </name>
+          <w lemma="trükitud|trükkima" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">trükitud</w>
+          <w lemma="tõlge" pos="S" msd="Sg.Nom">tõlge</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ometi" pos="D" msd="">ometi</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">peaksin</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="valetama" pos="V" msd="Pers.Sup.Ill">valetama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="see" pos="P" msd="Sg.Par">sedagi</w>
+          <w lemma="kordaläinud" pos="A" msd="Sg.Tra">kordaläinuks</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">tahaksin</w>
+          <w lemma="nimetama" pos="V" msd="Inf">nimetada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Gen">Selle</w>
+          <w lemma="tõlge" pos="S" msd="Sg.Com">tõlkega</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <w lemma="isegi" pos="D" msd="">isegi</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="noorepõlvetöö" pos="S" msd="Sg.Nom">noorepõlvetöö</w>
+          <w lemma="võima|võinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">võinud</w>
+          <w lemma="võistlema" pos="V" msd="Inf">võistelda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="alles" pos="D" msd="">alles</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="aga" pos="J" msd="">Aga</w>
+          <w lemma="just" pos="D|I" msd="">just</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="sellepärast" pos="D" msd="">sellepärast</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="ümberpanek" pos="S" msd="Sg.Nom">ümberpanek</w>
+          <w lemma="saksa" pos="G" msd="">saksa</w>
+          <w lemma="Schiller" pos="H" msd="Sg.Ela">Schillerist</w>
+          <w lemma="nii" pos="D" msd="">nii</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="kaugele" pos="D" msd="">kaugele</w>
+          <w lemma="maha" pos="D" msd="">maha</w>
+          <w lemma="jääma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">jäi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="pidama" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">pidi</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="tuleohver" pos="S" msd="Sg.Tra">tuleohvriks</w>
+          <w lemma="langema" pos="V" msd="Pers.Sup.Ill">langema</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="malm" pos="S" msd="Sg.Gen">Malmi</w>
+          <w lemma="ümberpanek" pos="S" msd="Sg.Ine">ümberpanekus</w>
+          <w lemma="leidma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">leian</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="ainult" pos="D" msd="">ainult</w>
+          <w lemma="üksik" pos="A" msd="Pl.Par">üksikuid</w>
+          <w lemma="kordaläinud" pos="A" msd="Pl.Nom|Sg.Nom">kordaläinud</w>
+          <w lemma="koht" pos="S" msd="Pl.Par">kohti</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuna" pos="J" msd="">kuna</w>
+          <w lemma="teine" pos="O|P" msd="Pl.Par">teisi</w>
+          <w lemma="täiesti" pos="D" msd="">täiesti</w>
+          <w lemma="nurjaläinu" pos="S" msd="Sg.Tra">nurjaläinuks</w>
+          <w lemma="tulema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tuleb</w>
+          <w lemma="pidama" pos="V" msd="Inf">pidada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Gen">Selle</w>
+          <w lemma="põhjus" pos="S" msd="Sg.Tra">põhjuseks</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond">võiks</w>
+          <w lemma="ehk" pos="D" msd="">ehk</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="hing" pos="S" msd="Pl.Gen">hingede</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="ilmteadmata" pos="S" msd="Sg.Nom">ilmteadmata</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <w lemma="kokkukõla" pos="S" msd="Sg.Nom">kokkukõla</w>
+          <w lemma="olema" pos="V" msd="Inf">olla</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="heaks" pos="D" msd="">heaks</w>
+          <w lemma="arvama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">arvate</w>
+          <w lemma="ütlema" pos="V" msd="Inf">öelda</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="just" pos="D|I" msd="">just</w>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="ülevoolav" pos="A" msd="Pl.Gen">ülevoolavate</w>
+          <w lemma="kevadetundmus" pos="S" msd="Pl.Gen">kevadetundmuste</w>
+          <w lemma="osaline" pos="A" msd="Sg.Tra">osaliseks</w>
+          <w lemma="välja" pos="D" msd="">välja</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
+          <w lemma="valima|valinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">valinud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="oh" pos="I" msd="">Oh</w>
+          <w lemma="jaa" pos="D" msd="">jaa</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Nom">See</w>
+          <w lemma="tuletama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tuletab</w>
+          <w lemma="jälle" pos="D" msd="">jälle</w>
+          <w lemma="see" pos="P" msd="Pl.Par">neid</w>
+          <w lemma="õnnis" pos="A" msd="Sg.Gen">õndsa</w>
+          <w lemma="möödanik" pos="S" msd="Sg.Gen">möödaniku</w>
+          <w lemma="taevalikult" pos="D" msd="">taevalikult</w>
+          <w lemma="ilus" pos="A" msd="Pl.Par">ilusaid</w>
+          <w lemma="päev" pos="S" msd="Pl.Par">päevi</w>
+          <w lemma="meel" pos="S" msd="Sg.Ill">meelde</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minugi</w>
+          <w lemma="meel" pos="S" msd="Sg.Nom">meel</w>
+          <w lemma="üsna" pos="D" msd="">üsna</w>
+          <w lemma="tihti" pos="D" msd="">tihti</w>
+          <w lemma="nõndasamuti" pos="D" msd="">nõndasamuti</w>
+          <w lemma="unistusevald" pos="S" msd="Sg.Ine">unistusevallas</w>
+          <w lemma="ilutsema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">ilutses</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="paraku" pos="D" msd="">paraku</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema|olnud" pos="A|V" msd="Pers.Prt.Ind.Neg|Pl.Nom|Sg.Nom">olnud</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="mina" pos="P" msd="Sg.Ade">minul</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Par">ühtki</w>
+          <w lemma="osavõtja" pos="S" msd="Sg.Par">osavõtjat</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="tulema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">Tuli</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="inimene" pos="S" msd="Pl.Gen">inimeste</w>
+          <w lemma="pelgamine" pos="S" msd="Sg.Ela">pelgamisest</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="miski" pos="P" msd="Sg.Ela">millestki</w>
+          <w lemma="muu" pos="P" msd="Sg.Ela">muust</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lühidalt" pos="D" msd="">lühidalt</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Ade">mul</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="läinud|minema" pos="A|V" msd="Pers.Prt.Ind.Neg|Pl.Nom|Sg.Nom">läinud</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="kord" pos="S" msd="Sg.Par">korda</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Gen">ühegi</w>
+          <w lemma="inimene" pos="S" msd="Sg.Com">inimesega</w>
+          <w lemma="usalduseside" pos="S" msd="Sg.Par">usaldusesidet</w>
+          <w lemma="looma" pos="V" msd="Inf">luua</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="mina" pos="P" msd="Sg.Nom">Ma</w>
+          <w lemma="elama" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">elasin</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="täielik" pos="A" msd="Sg.Nom">täielik</w>
+          <w lemma="üksiklane" pos="S" msd="Sg.Nom">üksiklane</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="ainuke|ainukene" pos="A" msd="Sg.Tra">ainukeseks</w>
+          <w lemma="kaaslane" pos="S" msd="Sg.Tra">kaaslaseks</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">oli</w>
+          <w lemma="loodus" pos="S" msd="Sg.Nom">loodus</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="kõige" pos="D" msd="">kõige</w>
+          <w lemma="õnnelikum" pos="C" msd="Pl.Nom">õnnelikumad</w>
+          <w lemma="tund" pos="S" msd="Pl.Nom">tunnid</w>
+          <w lemma="saatma" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">saatsin</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="mööda" pos="D" msd="">mööda</w>
+          <w lemma="kaugel" pos="D" msd="">kaugel</w>
+          <w lemma="inimene" pos="S" msd="Pl.Gen">inimeste</w>
+          <w lemma="seltsist" pos="K" msd="">seltsist</w>
+          <w lemma="metsavaikus" pos="S" msd="Sg.Ine">metsavaikuses</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">Võin</w>
+          <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Sg.Gen">mu</w>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <w lemma="laps" pos="S" msd="Sg.Nom">laps</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="koos" pos="K" msd="">koos</w>
+          <name type="B-PER">
+            <w lemma="Kaspar|Kaspari" pos="H" msd="Sg.Com">Kaspariga</w>
+          </name>
+          <w lemma="hüüdma" pos="V" msd="Inf">hüüda</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="So" pos="Y" msd="?">So</w>
+          <w lemma="auch" pos="S" msd="Sg.Nom">auch</w>
+          <w lemma="hab" pos="S" msd="Sg.Nom">hab</w>
+          <w lemma="ich" pos="S" msd="Sg.Nom">ich</w>
+          <w lemma="einst" pos="S" msd="Sg.Nom">einst</w>
+          <w lemma="geträumt" pos="S" msd="Sg.Nom">geträumt</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="doch" pos="S" msd="Sg.Nom">doch</w>
+          <w lemma="das" pos="S" msd="Sg.Nom">das</w>
+          <name type="B-PER">
+            <w lemma="Leben" pos="H" msd="Sg.Nom">Leben</w>
+          </name>
+          <w lemma="rief" pos="S" msd="Sg.Nom">rief</w>
+          <w lemma="mich" pos="S" msd="Sg.Nom">mich</w>
+          <w lemma="wach" pos="S" msd="Sg.Nom">wach</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kui" pos="D|J" msd="">Kui</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="mitu" pos="P" msd="Sg.Ine">mitmes</w>
+          <w lemma="tükk" pos="S" msd="Sg.Ine">tükis</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="roosavärviline" pos="A" msd="Sg.Nom">roosavärviline</w>
+          <w lemma="kiri" pos="S" msd="Sg.Nom">kiri</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="tundmine" pos="S" msd="Sg.Gen">tundmise</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tundmus" pos="S" msd="Pl.Com">tundmustega</w>
+          <w lemma="kokku" pos="D" msd="">kokku</w>
+          <w lemma="kõlama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">kõlab</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="õigemini" pos="D" msd="">õigemini</w>
+          <w lemma="ütlema" pos="V" msd="Inf">öelda</w>
+          <w lemma="poolehoidmine" pos="S" msd="Sg.Par">poolehoidmist</w>
+          <w lemma="äratama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">äratab</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="kohta" pos="K" msd="">kohta</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">võiksin</w>
+          <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
+          <w lemma="vähem" pos="C" msd="Sg.Gen">vähemagi</w>
+          <w lemma="vaev" pos="S" msd="Sg.Abe">vaevata</w>
+          <w lemma="poogen" pos="S" msd="Pl.Gen">poognate</w>
+          <w lemma="viisi" pos="K" msd="">viisi</w>
+          <w lemma="epistel" pos="S" msd="Pl.Par">epistleid</w>
+          <w lemma="kirjutama" pos="V" msd="Inf">kirjutada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="mina" pos="P" msd="Sg.Ade">mul</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="mahti" pos="X" msd="">mahti</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="ainult" pos="D" msd="">Ainult</w>
+          <w lemma="reisimine" pos="S" msd="Sg.Ela">reisimisest</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="reisilust" pos="S" msd="Sg.Ela">reisilustist</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="tohtima" pos="V" msd="Pers.Prs.Ind.Neg">tohi</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="mina" pos="P" msd="Sg.All">minule</w>
+          <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
+          <w lemma="rääkima" pos="V" msd="Inf">rääkida</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="lõikama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">lõikab</w>
+          <w lemma="liiga" pos="D" msd="">liiga</w>
+          <w lemma="valusasti" pos="D" msd="">valusasti</w>
+          <w lemma="süda" pos="S" msd="Sg.Ill">südamesse</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sest" pos="J" msd="">sest</w>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="vangisolija" pos="S" msd="Sg.Nom">vangisolija</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="kong" pos="S" msd="Sg.Ela">kongist</w>
+          <w lemma="välja" pos="D" msd="">välja</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="pääsema" pos="V" msd="Pers.Prs.Ind.Neg">pääse</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="aga" pos="J" msd="">Aga</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ennatu" pos="A" msd="Sg.Nom">ennatu</w>
+          <w lemma="laps" pos="S" msd="Sg.Nom">laps</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="minema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">lähete</w>
+          <w lemma="veelgi" pos="D" msd="">veelgi</w>
+          <w lemma="kaugemale" pos="D" msd="">kaugemale</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="kutsuma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">kutsute</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="kutsuma" pos="V" msd="Pers.Sup.Abe">kutsumatagi</w>
+          <w lemma="tulema" pos="V" msd="Inf">tulla</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sinna" pos="D" msd="">sinna</w>
+          <w lemma="lendama" pos="V" msd="Inf">lennata</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">tahaksin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="ainult" pos="D" msd="">ainult</w>
+          <w lemma="pisem" pos="C" msd="Sg.Par">pisematki</w>
+          <w lemma="võimalus" pos="S" msd="Sg.Par">võimalust</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="Weils" pos="H" msd="Sg.Nom">Weils</w>
+          <w lemma="aber" pos="S" msd="Sg.Nom">aber</w>
+          <w lemma="nit" pos="S" msd="Sg.Nom">nit</w>
+          <w lemma="kann" pos="S" msd="Sg.Nom">kann</w>
+          <w lemma="seyn" pos="S" msd="Sg.Nom">seyn</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nit" pos="S" msd="Sg.Nom">nit</w>
+          <w lemma="kann" pos="S" msd="Sg.Nom">kann</w>
+          <w lemma="seyn" pos="S" msd="Sg.Nom">seyn</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <pc lemma="’" pos="Z" msd="">'</pc>
+          <w lemma="p" pos="Y" msd="?">p</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="häda" pos="S" msd="Sg.Nom">häda</w>
+          <w lemma="paraku" pos="D" msd="">paraku</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">ongi</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kuid" pos="J" msd="">Kuid</w>
+          <w lemma="ära" pos="V" msd="Pers.Prs.Ind.Pl.1.Neg">ärme</w>
+          <w lemma="see" pos="P" msd="Sg.Ela">sellest</w>
+          <w lemma="parem" pos="D" msd="">parem</w>
+          <w lemma="pikemalt" pos="D" msd="">pikemalt</w>
+          <w lemma="rääkima" pos="V" msd="Pers.Prs.Imprt.Sg.2">räägi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
+          <w lemma="mõlema" pos="P" msd="Sg.Gen">mõlema</w>
+          <w lemma="hingerahu" pos="S" msd="Sg.All">hingerahule</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="parem" pos="C" msd="Sg.Nom">parem</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="sõna" pos="S" msd="Sg.Par">sõna</w>
+          <w lemma="lausuma" pos="V" msd="Pers.Sup.Abe">lausumata</w>
+          <w lemma="kannatama" pos="V" msd="Inf">kannatada</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="vait" pos="D" msd="">vait</w>
+          <w lemma="olema" pos="V" msd="Inf">olla</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="isegi" pos="D" msd="">Isegi</w>
+          <w lemma="säärane" pos="P" msd="Sg.Ade">säärasel</w>
+          <w lemma="korral" pos="K" msd="">korral</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="ilmvõimatu" pos="A" msd="Sg.Nom">ilmvõimatu</w>
+          <w lemma="laskma" pos="V" msd="Pers.Prs.Cond">laseks</w>
+          <w lemma="ise" pos="P" msd="Sg.Par">ennast</w>
+          <w lemma="võimalik" pos="A" msd="Sg.Tra">võimalikuks</w>
+          <w lemma="pöörama" pos="V" msd="Inf">pöörata</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="tooma" pos="V" msd="Pers.Prs.Cond">tooks</w>
+          <w lemma="mina" pos="P" msd="Pl.All">meile</w>
+          <w lemma="praegune" pos="A" msd="Sg.Gen">praeguse</w>
+          <w lemma="asjakord" pos="S" msd="Sg.Gen">asjakorra</w>
+          <w lemma="juures" pos="K" msd="">juures</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <name type="B-LOC">
+            <w lemma="Tartu" pos="H" msd="Sg.Ill">Tartusse</w>
+          </name>
+          <w lemma="tulemine" pos="S" msd="Sg.Nom">tulemine</w>
+          <w lemma="kuigi" pos="D|J" msd="">kuigi</w>
+          <w lemma="palju" pos="D" msd="">palju</w>
+          <w lemma="rõõm" pos="S" msd="Sg.Par">rõõmu</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sest" pos="J" msd="">sest</w>
+          <w lemma="et" pos="J" msd="">et</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="jätma" pos="V" msd="Pers.Prs.Ind.Pl.1.Aff">jätame</w>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="lause" pos="S" msd="Sg.Gen">lause</w>
+          <w lemma="lõpetama" pos="V" msd="Pers.Sup.Abe">lõpetamata</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="mina" pos="P" msd="Sg.Gen">Minu</w>
+          <w lemma="laps" pos="S" msd="Pl.Nom">lapsed</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Cond.Pl.3.Aff">tahaksid</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="kogu" pos="A" msd="">kogu</w>
+          <w lemma="aeg" pos="S" msd="Sg.Nom">aeg</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="seltsis" pos="K" msd="">seltsis</w>
+          <w lemma="olema" pos="V" msd="Inf">olla</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="iga" pos="P" msd="Sg.Nom">iga</w>
+          <w lemma="tund" pos="S" msd="Sg.Nom">tund</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="tema" pos="P" msd="Pl.All">neile</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Cond">saaks</w>
+          <w lemma="pühendama|pühendatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">pühendatud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond">võiks</w>
+          <w lemma="see" pos="P" msd="Pl.Gen">nende</w>
+          <w lemma="silm" pos="S" msd="Pl.Ine">silmis</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="lausa" pos="D" msd="">lausa</w>
+          <w lemma="röövimine" pos="S" msd="Sg.Nom">röövimine</w>
+          <w lemma="paistma" pos="V" msd="Inf">paista</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="etc" pos="S" msd="Sg.Nom">etc</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="kuid" pos="J" msd="">Kuid</w>
+          <w lemma="see" pos="P" msd="Sg.Ela">sellest</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="küllalt" pos="D" msd="">küllalt</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tagantjärgi" pos="D" msd="">tagantjärgi</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond">võiks</w>
+          <w lemma="pealegi" pos="D" msd="">pealegi</w>
+          <w lemma="keelepeks" pos="S" msd="Sg.Par">keelepeksu</w>
+          <w lemma="tõusma" pos="V" msd="Inf">tõusta</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lühidalt" pos="D" msd="">lühidalt</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="parem" pos="C" msd="Sg.Nom">parem</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="säärane" pos="P" msd="Sg.Ela">säärasest</w>
+          <w lemma="tülikas" pos="A" msd="Sg.Ela">tülikast</w>
+          <w lemma="asi" pos="S" msd="Sg.Ela">asjast</w>
+          <w lemma="hoopis" pos="D" msd="">hoopis</w>
+          <w lemma="eemale" pos="D" msd="">eemale</w>
+          <w lemma="hoidma" pos="V" msd="Inf">hoida</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <name type="B-LOC">
+            <w lemma="Vaim" pos="H" msd="Sg.Ine">Vaimus</w>
+          </name>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">tahan</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <w lemma="ja" pos="J" msd="">ja</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Kalevipoeg" pos="H" msd="Sg.Gen">Kalevipoja</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="uurija" pos="S" msd="Pl.Gen">uurijate</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="ümber" pos="D" msd="">ümber</w>
+          <w lemma="hõljuma" pos="V" msd="Inf">hõljuda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuid" pos="J" msd="">kuid</w>
+          <w lemma="kehalik" pos="A" msd="Sg.Nom">kehalik</w>
+          <w lemma="sealviibimine" pos="S" msd="Sg.Nom">sealviibimine</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="mina" pos="P" msd="Sg.All">mulle</w>
+          <w lemma="olu" pos="S" msd="Pl.Gen">olude</w>
+          <w lemma="sunnil" pos="K" msd="">sunnil</w>
+          <w lemma="lubama|lubatu|lubatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">lubatud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="sõbralik" pos="A" msd="Sg.Nom">sõbralik</w>
+          <w lemma="küllakutsumine" pos="S" msd="Sg.Nom">küllakutsumine</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="sugugi" pos="D" msd="">sugugi</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="liigjulgus" pos="S" msd="Sg.Nom">liigjulgus</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="J" msd="">vaid</w>
+          <w lemma="ennemini" pos="D" msd="">ennemini</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="ärateenimata" pos="A" msd="">ärateenimata</w>
+          <w lemma="au" pos="S" msd="Sg.Nom">au</w>
+          <w lemma="mina" pos="P" msd="Sg.All">minule</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ometigi" pos="D" msd="">ometigi</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="andma" pos="V" msd="Pers.Prs.Ind.Neg">anna</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="asi" pos="S" msd="Sg.Nom">asi</w>
+          <w lemma="ise" pos="P" msd="Sg.Par">ennast</w>
+          <w lemma="kuidagiviisi" pos="D" msd="">kuidagiviisi</w>
+          <w lemma="seadma" pos="V" msd="Inf">seada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="est">
+        <s>
+          <w lemma="üks" pos="N|P" msd="Sg.Nom">Üks</w>
+          <w lemma="vana" pos="A" msd="Sg.Nom">vana</w>
+          <w lemma="ramb" pos="A" msd="Sg.Nom">ramb</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="töö" pos="S" msd="Sg.Ela">tööst</w>
+          <w lemma="tülpima|tülpinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">tülpinud</w>
+          <w lemma="hobune" pos="S" msd="Sg.Nom">hobune</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
+          <w lemma="niikaua" pos="D" msd="">niikaua</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="koorem" pos="S" msd="Sg.Par">koormat</w>
+          <w lemma="vedama" pos="V" msd="Pers.Sup.Ill">vedama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuni" pos="J" msd="">kuni</w>
+          <w lemma="tema" pos="P" msd="Sg.Gen">ta</w>
+          <w lemma="ais" pos="S" msd="Pl.Gen">aisade</w>
+          <w lemma="vahele" pos="K" msd="">vahele</w>
+          <w lemma="langema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">langeb</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="nui" pos="S" msd="Sg.Gen">nuia</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="malk" pos="S" msd="Pl.Gen">malkade</w>
+          <w lemma="sunnitus" pos="S" msd="Sg.Ade">sunnitusel</w>
+          <w lemma="enam" pos="D" msd="">enam</w>
+          <w lemma="üles" pos="D" msd="">üles</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="tõusma" pos="V" msd="Pers.Prs.Ind.Neg">tõuse</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Nom">See</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="ükskord" pos="D" msd="">ükskord</w>
+          <w lemma="koormakandja" pos="S" msd="Sg.Gen">koormakandja</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="vedaja" pos="S" msd="Sg.Gen">vedaja</w>
+          <w lemma="kohus" pos="S" msd="Sg.Nom">kohus</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Gen|Sg.Gen">mille</w>
+          <w lemma="vastu" pos="K" msd="">vastu</w>
+          <w lemma="mingi" pos="P" msd="Sg.Nom">mingi</w>
+          <w lemma="vastutõrkumine" pos="S" msd="Sg.Nom">vastutõrkumine</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="aitama" pos="V" msd="Pers.Prs.Ind.Neg">aita</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="ehk" pos="D" msd="">Ehk</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="rõõm" pos="S" msd="Sg.Nom">rõõm</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="mure" pos="S" msd="Sg.Nom">mure</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="kaksikvend" pos="S" msd="Pl.Nom">kaksikvennad</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="üks" pos="N|P" msd="Sg.Ade">ühel</w>
+          <w lemma="samm" pos="S" msd="Sg.Ade">sammul</w>
+          <w lemma="astuma" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">astuvad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siiski" pos="D" msd="">siiski</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="viimane" pos="A" msd="Sg.Nom">viimane</w>
+          <w lemma="palju" pos="D" msd="">palju</w>
+          <w lemma="nobedam" pos="C" msd="Pl.Gen">nobedamate</w>
+          <w lemma="jalg" pos="S" msd="Pl.Com">jalgadega</w>
+          <w lemma="loodud|looma" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">loodud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="esimene" pos="O" msd="Sg.Nom">esimene</w>
+          <w lemma="harva" pos="D" msd="">harva</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="õnn" pos="S" msd="Sg.Gen">õnne</w>
+          <w lemma="korral" pos="K" msd="">korral</w>
+          <w lemma="tema" pos="P" msd="Sg.Gen">tema</w>
+          <w lemma="ette" pos="K" msd="">ette</w>
+          <w lemma="jõudma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">jõuab</w>
+          <w lemma="astuma" pos="V" msd="Inf">astuda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Gen">Selle</w>
+          <w lemma="tõsine" pos="A" msd="Sg.Gen">tõsise</w>
+          <w lemma="mõte" pos="S" msd="Sg.Com">mõttega</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">tahan</w>
+          <w lemma="natuke" pos="D" msd="">natuke</w>
+          <w lemma="voodi" pos="S" msd="Sg.Ill">voodisse</w>
+          <w lemma="heitma" pos="V" msd="Inf">heita</w>
+          <w lemma="paar" pos="N" msd="Sg.Tra">paariks</w>
+          <w lemma="tund" pos="S" msd="Sg.Tra">tunniks</w>
+          <w lemma="väsima|väsinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">väsinud</w>
+          <w lemma="keha" pos="S" msd="Sg.Par">keha</w>
+          <w lemma="karastama" pos="V" msd="Pers.Sup.Ill">karastama</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="päevavalge" pos="S" msd="Sg.Ade">päevavalgel</w>
+          <w lemma="mõni" pos="P" msd="Sg.Gen">mõne</w>
+          <w lemma="tund" pos="S" msd="Sg.Gen">tunni</w>
+          <w lemma="pärast" pos="K" msd="">pärast</w>
+          <w lemma="mahti" pos="X" msd="">mahti</w>
+          <w lemma="juhtuma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">juhtun</w>
+          <w lemma="leidma" pos="V" msd="Pers.Sup.Ill">leidma</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siis" pos="J" msd="">siis</w>
+          <w lemma="lisama" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">lisan</w>
+          <w lemma="ehk" pos="D" msd="">ehk</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="paar" pos="N" msd="Sg.Nom">paar</w>
+          <w lemma="sõna" pos="S" msd="Sg.Par">sõna</w>
+          <w lemma="juurde" pos="D" msd="">juurde</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Cond">Peaks</w>
+          <w lemma="taevas" pos="S" msd="Sg.Gen">taeva</w>
+          <w lemma="täht" pos="S" msd="Pl.Ine">tähtedes</w>
+          <w lemma="teisiti" pos="D" msd="">teisiti</w>
+          <w lemma="kirjutama|kirjutatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">kirjutatud</w>
+          <w lemma="olema" pos="V" msd="Pers.Sup.Ill">olema</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siis" pos="J" msd="">siis</w>
+          <w lemma="paluma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">palun</w>
+          <w lemma="see" pos="P" msd="Sg.Com">sellega</w>
+          <w lemma="leppima" pos="V" msd="Inf">leppida</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="est">
+        <s>
+          <date when="2023-12-24">
+            <w lemma="pühapäev" pos="S" msd="Sg.Ade">Pühapäeval</w>
+          </date>
+          <w lemma="1870" pos="N" msd="?">1870</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <date when="2023-12-24T01">
+            <w lemma="hommik" pos="S" msd="Sg.Ade">hommikul</w>
+            <w lemma="kell" pos="S" msd="Sg.Nom">kell</w>
+            <w lemma="1" pos="N" msd="?">1</w>
+          </date>
+          <w lemma="1" pos="N" msd="?">1</w>
+          <pc lemma="/" pos="Z" msd="">/</pc>
+          <w lemma="2" pos="N" msd="?">2</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="maikuu" pos="S" msd="Sg.Gen">maikuu</w>
+          <w lemma="17." pos="O" msd="?">17.</w>
+          <w lemma="päev" pos="S" msd="Sg.Ade">päeval</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="peale" pos="K" msd="">Peale</w>
+          <w lemma="lõuna" pos="S" msd="Sg.Par">lõunat</w>
+          <w lemma="kell" pos="S" msd="Sg.Nom">kell</w>
+          <w lemma="5." pos="O" msd="?">5.</w>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="est">
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="kaunis" pos="A" msd="Sg.All">kaunile</w>
+          <w lemma="kevadlik" pos="A" msd="Pl.Gen">kevadlikkude</w>
+          <w lemma="tundmus" pos="S" msd="Pl.Gen">tundmuste</w>
+          <w lemma="väljavalamine" pos="S" msd="Sg.All">väljavalamisele</w>
+          <w lemma="2." pos="O" msd="?">2.</w>
+          <date when="2023-12">
+            <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+            <w lemma="kuu" pos="S" msd="Sg.Gen">kuu</w>
+          </date>
+          <w lemma="päev" pos="S" msd="Sg.Ela">päevast</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="mina" pos="P" msd="Sg.Ade">mul</w>
+          <w lemma="see" pos="P" msd="Sg.Ade">sel</w>
+          <w lemma="puhul" pos="K" msd="">puhul</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="võimalik" pos="A" msd="Sg.Nom">võimalik</w>
+          <w lemma="vastus" pos="S" msd="Sg.Par">vastust</w>
+          <w lemma="andma" pos="V" msd="Inf">anda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ometigi" pos="D" msd="">ometigi</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">pean</w>
+          <w lemma="niipalju" pos="D" msd="">niipalju</w>
+          <w lemma="tema" pos="P" msd="Pl.Ela">neist</w>
+          <w lemma="nimetama" pos="V" msd="Pers.Sup.Ill">nimetama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="tema" pos="P" msd="Pl.Gen">nende</w>
+          <w lemma="kõlksumine" pos="S" msd="Sg.Nom">kõlksumine</w>
+          <w lemma="sõbralik" pos="A" msd="Pl.Gen">sõbralikkude</w>
+          <w lemma="keel" pos="S" msd="Pl.Gen">keelte</w>
+          <w lemma="külge" pos="K" msd="">külge</w>
+          <w lemma="puutuma" pos="V" msd="Ger">puutudes</w>
+          <w lemma="tema" pos="P" msd="Pl.Par">neid</w>
+          <w lemma="ühtlasi" pos="D" msd="">ühtlasi</w>
+          <w lemma="peaaegu" pos="D" msd="">peaaegu</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <w lemma="võima|võinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">võinud</w>
+          <w lemma="vastu" pos="D" msd="">vastu</w>
+          <w lemma="helisema" pos="V" msd="Pers.Sup.Ill">helisema</w>
+          <w lemma="sundima" pos="V" msd="Inf">sundida</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="laul" pos="S" msd="Sg.Gen">laulu-</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="helisemiseaeg" pos="S" msd="Sg.Nom">helisemiseaeg</w>
+          <w lemma="nii" pos="D" msd="">nii</w>
+          <w lemma="väga" pos="D" msd="">väga</w>
+          <w lemma="kaugel" pos="D" msd="">kaugel</w>
+          <w lemma="seljataga" pos="D" msd="">seljataga</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="seisma" pos="V" msd="Pers.Prs.Cond">seisaks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="niisamuti" pos="D" msd="">Niisamuti</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="loodus" pos="S" msd="Sg.Nom">loodus</w>
+          <w lemma="pisuke|pisukene" pos="A" msd="Pl.Gen">pisukeste</w>
+          <w lemma="vahendik|vahendikku" pos="S" msd="Pl.Com">vahendikkudega</w>
+          <w lemma="osav" pos="A" msd="Sg.Ade">osaval</w>
+          <w lemma="käsi" pos="S" msd="Sg.Ade">käel</w>
+          <w lemma="kena" pos="A" msd="Pl.Par">kenasid</w>
+          <w lemma="pilt" pos="S" msd="Pl.Par">piltisid</w>
+          <w lemma="oskama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">oskab</w>
+          <w lemma="maalima" pos="V" msd="Inf">maalida</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="tema" pos="P" msd="Sg.Ade">temal</w>
+          <w lemma="muu" pos="P" msd="Sg.Par">muud</w>
+          <w lemma="tarvis" pos="D" msd="">tarvis</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="minema" pos="V" msd="Pers.Prs.Ind.Neg">lähe</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="tükike" pos="S" msd="Sg.Nom">tükike</w>
+          <w lemma="sinine" pos="A" msd="Sg.Par">sinist</w>
+          <w lemma="taevas" pos="S" msd="Sg.Par">taevast</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="teine" pos="O|P" msd="Sg.Nom">teine</w>
+          <w lemma="hali" pos="S" msd="Sg.Ela">haljast</w>
+          <w lemma="muru" pos="S" msd="Sg.Gen">muru</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="mets" pos="S" msd="Sg.Gen">metsa</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="natuke" pos="D" msd="">natuke</w>
+          <w lemma="päikeseläikuks" pos="S" msd="Sg.Par">päikeseläikust</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="eha" pos="S" msd="Sg.Par">eha-</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="koidupuna" pos="S" msd="Sg.Par">koidupuna</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="juhtuma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">juhtub</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="mägi" pos="S" msd="Sg.Par">mäge</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="org" pos="S" msd="Sg.Par">orgu</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="viimane" pos="A" msd="Sg.Ine">viimases</w>
+          <w lemma="kas" pos="D" msd="">kas</w>
+          <w lemma="jõgi" pos="S" msd="Sg.Par">jõge</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="järv" pos="S" msd="Sg.Par">järve</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="enam" pos="D" msd="">enam</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="tema" pos="P" msd="Sg.Ade">temal</w>
+          <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
+          <w lemma="tarvis" pos="D" msd="">tarvis</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siiski" pos="D" msd="">siiski</w>
+          <w lemma="pilt" pos="S" msd="Sg.Nom">pilt</w>
+          <w lemma="igakord" pos="S" msd="Sg.Nom">igakord</w>
+          <w lemma="silm" pos="S" msd="Sg.All">silmale</w>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="pisuke|pisukene" pos="A" msd="Pl.Gen">pisukeste</w>
+          <w lemma="kriips" pos="S" msd="Pl.Com">kriipsudega</w>
+          <date when="2024-SP">
+            <w lemma="kevad|kevade" pos="S" msd="Sg.Gen">kevade</w>
+          </date>
+          <w lemma="kuju" pos="S" msd="Sg.Gen">kuju</w>
+          <w lemma="paberileheke" pos="S" msd="Sg.Gen">paberilehekese</w>
+          <w lemma="peale" pos="K" msd="">peale</w>
+          <w lemma="kinnitama|kinnitanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">kinnitanud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="mõlema" pos="P" msd="Pl.Nom">Mõlemad</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="meistritöö" pos="S" msd="Pl.Nom">meistritööd</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ega" pos="J" msd="">ega</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="muu" pos="P" msd="Sg.Par">muud</w>
+          <w lemma="vahe" pos="S" msd="Sg.Par">vahet</w>
+          <w lemma="see" pos="P" msd="Pl.Ade">neil</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="teine" pos="O|P" msd="Sg.Nom">teine</w>
+          <w lemma="natuke" pos="D" msd="">natuke</w>
+          <w lemma="suurem" pos="C" msd="Sg.Nom">suurem</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="teine" pos="O|P" msd="Sg.Nom">teine</w>
+          <w lemma="vähem" pos="D" msd="">vähem</w>
+          <w lemma="näitama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">näitab</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="üks" pos="N|P" msd="Sg.Nom">Üks</w>
+          <w lemma="üle" pos="K" msd="">üle</w>
+          <w lemma="elusuurus" pos="S" msd="Sg.Gen">elusuuruse</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="teine" pos="O|P" msd="Sg.Nom">teine</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="en" pos="Y" msd="?">en</w>
+          <w lemma="miniature" pos="S" msd="Sg.Nom">miniature</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kuid" pos="J" msd="">kuid</w>
+          <w lemma="mõlema" pos="P" msd="Pl.Nom">mõlemad</w>
+          <w lemma="ometigi" pos="D" msd="">ometigi</w>
+          <date when="2024-SP">
+            <w lemma="kevad|kevade" pos="S" msd="Sg.Gen">kevade</w>
+          </date>
+          <w lemma="kuju" pos="S" msd="Sg.Nom">kuju</w>
+          <w lemma="üsna" pos="D" msd="">üsna</w>
+          <w lemma="tõetruult" pos="D" msd="">tõetruult</w>
+          <w lemma="peegeldama" pos="V" msd="Ger">peegeldades</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="õnnelik" pos="A" msd="Pl.Nom">Õnnelikud</w>
+          <w lemma="loom" pos="S" msd="Pl.Nom">loomad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
+          <w lemma="säherdune" pos="P" msd="Sg.Par">säherdust</w>
+          <w lemma="jõudev" pos="A" msd="Pl.Nom">jõudvad</w>
+          <w lemma="sünnitama" pos="V" msd="Inf">sünnitada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="luulemis" pos="S" msd="Sg.Gen">Luulemise</w>
+          <w lemma="väel" pos="K" msd="">väel</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="üksi" pos="D" msd="">üksi</w>
+          <w lemma="võimalik" pos="A" msd="Sg.Nom">võimalik</w>
+          <w lemma="targem" pos="C" msd="Pl.Gen">targemate</w>
+          <w lemma="tahtmata" pos="A" msd="">tahtmata</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="suurem" pos="C" msd="Pl.Gen">suuremate</w>
+          <w lemma="sundima" pos="V" msd="Pers.Sup.Abe">sundimata</w>
+          <w lemma="töö" pos="S" msd="Pl.Par">töösid</w>
+          <w lemma="toimetama" pos="V" msd="Inf">toimetada</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tegemine" pos="S" msd="Sg.Gen">tegemise</w>
+          <w lemma="kallal" pos="K" msd="">kallal</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <date when="2023-WI">
+            <w lemma="tali|talv" pos="S" msd="Sg.Gen">talve</w>
+          </date>
+          <w lemma="kurtuma" pos="V" msd="Pers.Prs.Imprt.Sg.2">kurtu</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="uduaeg" pos="S" msd="Pl.Gen">uduaegade</w>
+          <w lemma="nutt" pos="S" msd="Sg.Par">nuttu</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="haige" pos="A" msd="Sg.Gen">haige</w>
+          <w lemma="käsi" pos="S" msd="Sg.Gen">käe</w>
+          <w lemma="vastutõrku" pos="S" msd="Sg.Gen">vastutõrku</w>
+          <w lemma="unustus" pos="S" msd="Sg.Gen">unustuse</w>
+          <w lemma="kaiss" pos="S" msd="Sg.Par">kaissu</w>
+          <w lemma="matma" pos="V" msd="Inf">matta</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="vaimulend" pos="S" msd="Sg.Ade">vaimulennul</w>
+          <w lemma="keharaskune" pos="A" msd="Sg.Par">keharaskust</w>
+          <w lemma="kogunine" pos="A" msd="Sg.Par">kogunist</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="märkama" pos="V" msd="Pers.Prs.Ind.Neg">märka</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="salalaul" pos="S" msd="Sg.Nom">Salalaul</w>
+          <w lemma="põu" pos="S" msd="Sg.Ill">põue</w>
+          <w lemma="peit" pos="S" msd="Sg.Ine">peidus</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">võib</w>
+          <w lemma="mõnikord" pos="D" msd="">mõnikord</w>
+          <w lemma="süda" pos="S" msd="Sg.Par">südant</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <w lemma="rõõmustama" pos="V" msd="Inf">rõõmustada</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="see" pos="P" msd="Pl.Nom">need</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="võõras" pos="A" msd="Pl.Gen">võõraste</w>
+          <w lemma="silma-vaatus" pos="S" msd="Sg.All">silma-vaatusele</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="kõrva-kuuld" pos="S" msd="Sg.All">kõrva-kuulule</w>
+          <w lemma="ulatama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">ulatavad</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="niikaua" pos="D" msd="">Niikaua</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="laul" pos="S" msd="Sg.Nom">laul</w>
+          <w lemma="tõesti" pos="D" msd="">tõesti</w>
+          <w lemma="laulik" pos="S" msd="Sg.Gen">lauliku</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="sündimata" pos="A" msd="">sündimata</w>
+          <w lemma="südamepõld" pos="S" msd="Sg.Ine">südamepõllus</w>
+          <w lemma="idanema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">idaneb</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="est">
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <w lemma="lapsuke" pos="S" msd="Sg.Nom">lapsuke</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tooma|toonud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">toonud</w>
+          <date when="2024-05">
+            <w lemma="lehekuu" pos="S" msd="Sg.Gen">lehekuu</w>
+          </date>
+          <w lemma="esimene" pos="O" msd="Sg.Gen">esimese</w>
+          <w lemma="päev" pos="S" msd="Sg.Gen">päeva</w>
+          <date when="TEV">
+            <w lemma="õhtu" pos="S" msd="Sg.Gen">õhtu</w>
+          </date>
+          <w lemma="ööbik" pos="S" msd="Sg.Gen">ööbiku</w>
+          <w lemma="hõiskamine" pos="S" msd="Sg.Par">hõiskamist</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.Par|Sg.Par">keda</w>
+          <w lemma="mina" pos="S" msd="Sg.Par">mina</w>
+          <w lemma="armetu" pos="A" msd="Sg.Nom">armetu</w>
+          <date when="2023-SP">
+            <w lemma="tänavu" pos="D" msd="">tänavu</w>
+            <w lemma="kevad|kevade" pos="S" msd="Sg.Ade">kevadel</w>
+          </date>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="kuulma|kuulnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">kuulnud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="kuida" pos="S" msd="Sg.Nom">kuida</w>
+          <date when="PRESENT_REF">
+            <w lemma="praegu" pos="D" msd="">praegu</w>
+          </date>
+          <w lemma="lugu" pos="S" msd="Sg.Nom">lugu</w>
+          <w lemma="näitama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">näitab</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="lootus" pos="S" msd="Sg.Par">lootust</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="kasvama" pos="V" msd="Pers.Prs.Ind.Neg">kasva</w>
+          <date when="FUTURE_REF">
+            <w lemma="edaspidi" pos="D" msd="">edaspidi</w>
+          </date>
+          <w lemma="kuulma" pos="V" msd="Inf">kuulda</w>
+          <w lemma="saama" pos="V" msd="Inf">saada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="kogemata" pos="D" msd="">kogemata</w>
+          <w lemma="juhtumine" pos="S" msd="Sg.Nom">juhtumine</w>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <w lemma="linn" pos="S" msd="Sg.Ela">linnast</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Cond">peaks</w>
+          <w lemma="välja" pos="D" msd="">välja</w>
+          <w lemma="vedama" pos="V" msd="Pers.Sup.Ill">vedama</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="see" pos="P" msd="Sg.Gen">Selle</w>
+          <w lemma="vilu" pos="A" msd="Sg.Nom">vilu</w>
+          <w lemma="ilm" pos="S" msd="Sg.Com">ilmaga</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuida" pos="S" msd="Sg.Gen">kuida</w>
+          <w lemma="mina" pos="P" msd="Pl.Ade">meil</w>
+          <w lemma="viimane" pos="A" msd="Pl.Ade">viimaseil</w>
+          <w lemma="päev" pos="S" msd="Pl.Ade">päevil</w>
+          <w lemma="osa" pos="S" msd="Sg.Tra">osaks</w>
+          <w lemma="andma|antud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">antud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">võivad</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="suliskuube" pos="S" msd="Sg.Ade">suliskuubel</w>
+          <w lemma="laululind" pos="S" msd="Pl.Nom">laululinnud</w>
+          <w lemma="lustilugu" pos="S" msd="Pl.Par">lustilugusid</w>
+          <w lemma="ära" pos="D" msd="">ära</w>
+          <w lemma="unustama" pos="V" msd="Inf">unustada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nõnda" pos="D" msd="">nõnda</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="pääsuke" pos="S" msd="Pl.Nom">pääsukesed</w>
+          <w lemma="vist" pos="D" msd="">vist</w>
+          <w lemma="enam" pos="D" msd="">enam</w>
+          <w lemma="hädapärane" pos="A" msd="Sg.Par">hädapärast</w>
+          <w lemma="lendama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">lendavad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="tiib" pos="S" msd="Pl.Gen">tiibade</w>
+          <w lemma="liigutamine" pos="S" msd="Sg.Nom">liigutamine</w>
+          <w lemma="tema" pos="P" msd="Pl.All">neile</w>
+          <w lemma="soe" pos="S" msd="Sg.Par">sooja</w>
+          <w lemma="andma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">annab</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="Lust" pos="H" msd="Sg.Nom">Lust</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="kihutama" pos="V" msd="Pers.Prs.Ind.Neg">kihuta</w>
+          <w lemma="vist" pos="D" msd="">vist</w>
+          <w lemma="keegi" pos="P" msd="Sg.Par">kedagi</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="lendama" pos="V" msd="Pers.Sup.Ill">lendama</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="mina" pos="P" msd="Pl.Gen">Meie</w>
+          <w lemma="toomingas" pos="S" msd="Sg.Gen">toominga</w>
+          <w lemma="õilmenupp" pos="S" msd="Pl.Nom">õilmenupud</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <date when="2023-W50">
+            <w lemma="viimane" pos="A" msd="Sg.Ade">viimasel</w>
+            <w lemma="nädal" pos="S" msd="Sg.Ade">nädalal</w>
+          </date>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="küünemust" pos="S" msd="Sg.Gen">küünemusta</w>
+          <w lemma="võrra" pos="K" msd="">võrra</w>
+          <w lemma="kaugemale" pos="D" msd="">kaugemale</w>
+          <w lemma="jõudma|jõudnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">jõudnud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="tema" pos="P" msd="Pl.Nom">nemad</w>
+          <date when="2023-12-17">
+            <w lemma="minev" pos="A" msd="Sg.Ade">mineval</w>
+            <w lemma="pühapäev" pos="S" msd="Sg.Ade">pühapäeval</w>
+          </date>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Pl.3.Aff">olid</w>
+          <pc lemma=";" pos="Z" msd="">;</pc>
+          <w lemma="ehk" pos="D" msd="">ehk</w>
+          <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="enamasti" pos="D" msd="">enamasti</w>
+          <date when="P1D">
+            <w lemma="iga" pos="P" msd="Sg.Nom">iga</w>
+            <w lemma="päev" pos="S" msd="Sg.Nom">päev</w>
+          </date>
+          <w lemma="vähemalt" pos="D" msd="">vähemalt</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Par">üht</w>
+          <w lemma="ahi" pos="S" msd="Sg.Par">ahju</w>
+          <w lemma="tuba" pos="S" msd="Sg.Ine">toas</w>
+          <w lemma="kütma" pos="V" msd="Pers.Prs.Ind.Pl.1.Aff">kütame</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siiski" pos="D" msd="">siiski</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Neg">taha</w>
+          <w lemma="õu" pos="S" msd="Sg.Ine">õues</w>
+          <w lemma="ilm" pos="S" msd="Sg.Nom">ilm</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="soojem" pos="C" msd="Sg.Tra">soojemaks</w>
+          <w lemma="minema" pos="V" msd="Inf">minna</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="rahvas" pos="S" msd="Sg.Nom">rahvas</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="häbenema" pos="V" msd="Pers.Prs.Ind.Neg">häbene</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
+          <w lemma="nurjatum" pos="C" msd="Sg.All">nurjatumale</w>
+          <w lemma="kuu" pos="S" msd="Sg.All">kuule</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Wonnemonat" pos="H" msd="Sg.Nom">Wonnemonat</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="nimi" pos="S" msd="Sg.Tra">nimeks</w>
+          <w lemma="olema" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">oli</w>
+          <w lemma="panema|pannud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">pannud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="õigus" pos="S" msd="Sg.Gen">Õiguse</w>
+          <w lemma="pärast" pos="K" msd="">pärast</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond.Pl.1.Aff">võiksime</w>
+          <date when="2023-05">
+            <w lemma="tänavune" pos="A" msd="Sg.Par">tänavust</w>
+            <w lemma="lehekuu" pos="S" msd="Sg.Par">lehekuud</w>
+          </date>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Gemüthlichkeitsvertilger" pos="H" msd="Sg.Nom">Gemüthlichkeitsvertilger</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="nimetama" pos="V" msd="Inf">nimetada</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="noor" pos="A" msd="Sg.Gen">Noore</w>
+          <w lemma="inimene" pos="S" msd="Sg.Gen">inimese</w>
+          <w lemma="kohta" pos="K" msd="">kohta</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">võib</w>
+          <w lemma="ehk" pos="D" msd="">ehk</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="tunnistus" pos="S" msd="Sg.Nom">tunnistus</w>
+          <w lemma="tõsi" pos="S" msd="Sg.Nom">tõsi</w>
+          <w lemma="olema" pos="V" msd="Inf">olla</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <date when="2024-SP">
+            <w lemma="kevadine" pos="A" msd="Sg.Nom">kevadine</w>
+          </date>
+          <w lemma="külm" pos="S" msd="Sg.Nom">külm</w>
+          <w lemma="sissepoole" pos="D" msd="">sissepoole</w>
+          <w lemma="ometi" pos="D" msd="">ometi</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="ulatama" pos="V" msd="Pers.Prs.Ind.Neg">ulata</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="aga" pos="J" msd="">Aga</w>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="põhjapiiris" pos="S" msd="Sg.Ade">põhjapiirisel</w>
+          <w lemma="meresarnane" pos="A" msd="Sg.Ade">meresarnasel</w>
+          <w lemma="vanarauk" pos="S" msd="Sg.Ade">vanaraugal</w>
+          <w lemma="suvine" pos="A" msd="Pl.Nom">suvised</w>
+          <w lemma="päikesetera" pos="S" msd="Pl.Nom">päikeseterad</w>
+          <w lemma="jäärüngas" pos="S" msd="Pl.Par">jäärünkaid</w>
+          <w lemma="iial" pos="D" msd="">iial</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="jaksama" pos="V" msd="Pers.Prs.Ind.Neg">jaksa</w>
+          <w lemma="ära" pos="D" msd="">ära</w>
+          <w lemma="sulatama" pos="V" msd="Inf">sulatada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="lõpma|lõppema" pos="V" msd="Pers.Prs.Ind.Neg">lõpe</w>
+          <w lemma="seespoolne" pos="A" msd="Sg.Nom">seespoolne</w>
+          <w lemma="külmavägi" pos="S" msd="Sg.Nom">külmavägi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="J" msd="">vaid</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="aastaaeg" pos="S" msd="Pl.Nom">aastaajad</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="mõjuma" pos="V" msd="Pers.Prs.Ind.Neg">mõju</w>
+          <w lemma="enam" pos="D" msd="">enam</w>
+          <w lemma="kaduma|kadunud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">kadunud</w>
+          <w lemma="soe" pos="A" msd="Sg.Gen">sooja</w>
+          <w lemma="tagasitoomine" pos="S" msd="Sg.Tra">tagasitoomiseks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="laitma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">laidate</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="unustama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">unustate</w>
+          <w lemma="ühtlasi" pos="D" msd="">ühtlasi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="professor" pos="S" msd="Sg.Nom">professor</w>
+          <emph type="underline">
+            <w lemma="Schott" pos="H" msd="Sg.Nom">Schott</w>
+          </emph>
+          <w lemma="ütlema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">ütleb</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="die" pos="S" msd="Sg.Gen">die</w>
+          <w lemma="estnischen" pos="S" msd="Sg.Nom">estnischen</w>
+          <name type="B-PER">
+            <w lemma="Sagen" pos="H" msd="Sg.Nom">Sagen</w>
+          </name>
+          <w lemma="vom" pos="S" msd="Sg.Nom">vom</w>
+          <name type="B-PER">
+            <w lemma="Kalewipoeg" pos="H" msd="Sg.Nom">Kalewipoeg</w>
+          </name>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="säherdune" pos="P" msd="Sg.Nom">säherdune</w>
+          <w lemma="endine" pos="A" msd="Sg.Gen">endise</w>
+          <w lemma="aeg" pos="S" msd="Sg.Gen">aja</w>
+          <w lemma="tagakurtmine" pos="S" msd="Sg.Nom">tagakurtmine</w>
+          <emph type="underline">
+            <w lemma="loodud|looma" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">loodud</w>
+            <w lemma="eestlane" pos="S" msd="Sg.Gen">eestlase</w>
+            <w lemma="viis" pos="S" msd="Sg.Nom">viis</w>
+          </emph>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="misläbi" pos="D" msd="">misläbi</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="ise" pos="P" msd="Sg.Par">ennast</w>
+          <w lemma="soomlane" pos="S" msd="Sg.Gen">soomlase</w>
+          <w lemma="kõrval" pos="K" msd="">kõrval</w>
+          <w lemma="hoopis" pos="D" msd="">hoopis</w>
+          <w lemma="teisiti" pos="D" msd="">teisiti</w>
+          <w lemma="näitama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">näitab</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+          <w lemma="elama" pos="V" msd="Pers.Prs.Imprt.Pl.2">Elage</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="kolm" pos="N" msd="Sg.Nom">kolm</w>
+          <w lemma="aastakümme" pos="S" msd="Sg.Par">aastakümmet</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="küllap" pos="D" msd="">küllap</w>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="leidma" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">leiate</w>
+          <w lemma="iseenese" pos="P" msd="Sg.Gen">iseenese</w>
+          <w lemma="küljes" pos="K" msd="">küljes</w>
+          <w lemma="seesama" pos="P" msd="Sg.Par">sedasama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="täna" pos="D" msd="">täna</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="kohta" pos="K" msd="">kohta</w>
+          <w lemma="võõriti" pos="D" msd="">võõriti</w>
+          <w lemma="looma" pos="V" msd="Pers.Prs.Cond">looks</w>
+          <w lemma="arvama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">arvate</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+          <w lemma="see" pos="P" msd="Sg.Ela">Sellest</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Imprt">olgu</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="küllalt" pos="D" msd="">küllalt</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+          <w lemma="täna" pos="D" msd="">Täna</w>
+          <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
+          <w lemma="sügavam" pos="C" msd="Sg.Par">sügavamat</w>
+          <w lemma="mõte" pos="S" msd="Sg.Par">mõtet</w>
+          <w lemma="ette" pos="D" msd="">ette</w>
+          <w lemma="võtma" pos="V" msd="Inf">võtta</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
+          <w lemma="mina" pos="P" msd="Sg.Ade">mul</w>
+          <w lemma="kogunisti" pos="D" msd="">kogunisti</w>
+          <w lemma="võimalik" pos="A" msd="Sg.Nom">võimalik</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="ehk" pos="J" msd="">ehk</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="kell" pos="S" msd="Sg.Gen">kella</w>
+          <w lemma="kaks" pos="N" msd="Sg.Gen">kahe</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="viis" pos="N" msd="Sg.Gen">viie</w>
+          <w lemma="vahel" pos="K" msd="">vahel</w>
+          <w lemma="kolm" pos="N" msd="Sg.Nom">kolm</w>
+          <w lemma="tund" pos="S" msd="Sg.Par">tundi</w>
+          <w lemma="pühapäev" pos="S" msd="Sg.Gen">pühapäeva</w>
+          <w lemma="pärastlõuna" pos="S" msd="Sg.Ela">pärastlõunast</w>
+          <w lemma="toimetamine" pos="S" msd="Sg.Par">toimetamist</w>
+          <w lemma="jalulkäiv" pos="A" msd="Pl.Gen">jalulkäivate</w>
+          <w lemma="haige" pos="S" msd="Pl.Gen">haigete</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="teine" pos="O|P" msd="Pl.Gen">teiste</w>
+          <w lemma="abiotsija" pos="S" msd="Pl.Gen">abiotsijate</w>
+          <w lemma="pärast" pos="K" msd="">pärast</w>
+          <w lemma="täitma" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">täitsin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siiski" pos="D" msd="">siiski</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="lõppema|lõppenud" pos="A|V" msd="Pers.Prt.Ind.Neg|Pl.Nom|Sg.Nom">lõppenud</w>
+          <w lemma="trepiaste" pos="S" msd="Pl.Gen">trepiastmete</w>
+          <w lemma="tallamine" pos="S" msd="Sg.Nom">tallamine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="D" msd="">vaid</w>
+          <w lemma="üks" pos="N|P" msd="Sg.Nom">üks</w>
+          <w lemma="minema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">läheb</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="teine" pos="O|P" msd="Sg.Nom">teine</w>
+          <w lemma="tulema" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tuleb</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="säherdune" pos="P" msd="Sg.Ade">säherdusel</w>
+          <w lemma="laadapeo|laadapidu" pos="S" msd="Sg.Ade">laadapeol</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
+          <w lemma="inimene" pos="S" msd="Sg.Nom">inimene</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="kirjandik" pos="S" msd="Sg.Ill">kirjandikku</w>
+          <w lemma="valmistama" pos="V" msd="Pers.Sup.Ill">valmistama</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Par|Sg.Par">mida</w>
+          <w lemma="teine" pos="O|P" msd="Sg.Gen">teise</w>
+          <w lemma="inimene" pos="S" msd="Sg.Gen">inimese</w>
+          <w lemma="silm" pos="S" msd="Sg.Gen">silma</w>
+          <w lemma="ette" pos="K" msd="">ette</w>
+          <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tahab</w>
+          <w lemma="läkitama" pos="V" msd="Inf">läkitada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="kui" pos="D|J" msd="">Kui</w>
+          <w lemma="mina" pos="S" msd="Sg.Nom">mina</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <w lemma="preili" pos="S" msd="Sg.Nom">preili</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="koguni" pos="D" msd="">koguni</w>
+          <w lemma="leplik" pos="A" msd="Sg.Ela">leplikust</w>
+          <w lemma="meel" pos="S" msd="Sg.Ela">meelest</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="nii" pos="D" msd="">nii</w>
+          <w lemma="mitu" pos="P" msd="Sg.Ade">mitmel</w>
+          <w lemma="kord" pos="S" msd="Sg.Ade">korral</w>
+          <w lemma="tunnistus" pos="S" msd="Sg.Par">tunnistust</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <w lemma="saama|saanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">saanud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siis" pos="J" msd="">siis</w>
+          <w lemma="võtma" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">võtaksin</w>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="leht" pos="S" msd="Sg.Gen">lehe</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="pikem" pos="C" msd="Sg.Gen">pikema</w>
+          <w lemma="jutt" pos="S" msd="Sg.Abe">jututa</w>
+          <w lemma="ära" pos="D" msd="">ära</w>
+          <w lemma="hävitama" pos="V" msd="Inf">hävitada</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="säärane" pos="P" msd="Sg.Ade">Säärasel</w>
+          <w lemma="puhul" pos="K" msd="">puhul</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Cond.Pl.2.Aff">peaksite</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="jällegi" pos="D" msd="">jällegi</w>
+          <w lemma="vähemalt" pos="D" msd="">vähemalt</w>
+          <w lemma="nädal" pos="S" msd="Sg.Nom">nädal</w>
+          <w lemma="otsa" pos="D" msd="">otsa</w>
+          <w lemma="elumärk" pos="S" msd="Sg.Ill">elumärki</w>
+          <w lemma="ootama" pos="V" msd="Pers.Sup.Ill">ootama</w>
+          <w lemma="jääma" pos="V" msd="Pers.Sup.Ill">jääma</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="sellepärast" pos="D" msd="">sellepärast</w>
+          <w lemma="arvama" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">arvan</w>
+          <w lemma="parem" pos="C" msd="Sg.Tra">paremaks</w>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="kirjaleht" pos="S" msd="Sg.Gen">kirjalehe</w>
+          <w lemma="siiski" pos="D" msd="">siiski</w>
+          <w lemma="ära" pos="D" msd="">ära</w>
+          <w lemma="saatma" pos="V" msd="Inf">saata</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="professor" pos="S" msd="Sg.Nom">Professor</w>
+          <name type="B-PER">
+            <w lemma="Schott" pos="H" msd="Sg.Nom">Schott</w>
+          </name>
+          <name type="I-PER">
+            <pc lemma="," pos="Z" msd="">,</pc>
+          </name>
+          <name type="I-PER">
+            <w lemma="dr" pos="Y" msd="?">dr.</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Schiefner" pos="H" msd="Sg.Nom">Schiefner</w>
+          </name>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <name type="B-PER">
+            <w lemma="Bertram" pos="H" msd="Sg.Nom">Bertram</w>
+          </name>
+          <w lemma="jt" pos="Y" msd="?">jt</w>
+          <w lemma="ootama" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">ootavad</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="nädal" pos="S" msd="Pl.Gen">nädalate</w>
+          <w lemma="kaupa" pos="K" msd="">kaupa</w>
+          <w lemma="vastus" pos="S" msd="Sg.Par">vastust</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
+          <w lemma="ega" pos="J" msd="">ega</w>
+          <w lemma="tema" pos="P" msd="Pl.All">neile</w>
+          <w lemma="tänini" pos="D" msd="">tänini</w>
+          <w lemma="andma" pos="V" msd="Inf">anda</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">pole</w>
+          <w lemma="jõudma|jõudnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">jõudnud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="vana" pos="A" msd="Sg.Nom">vana</w>
+          <w lemma="patune" pos="A" msd="Sg.Nom">patune</w>
+          <w lemma="võrulane" pos="S" msd="Sg.Nom">võrulane</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="kõige" pos="D" msd="">Kõige</w>
+          <w lemma="täbaram" pos="C" msd="Sg.Nom">täbaram</w>
+          <w lemma="siinjuures" pos="D" msd="">siinjuures</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="isegi" pos="D" msd="">isegi</w>
+          <w lemma="tõotama" pos="V" msd="Inf">tõotada</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="saama" pos="V" msd="Pers.Prs.Ind.Neg">saa</w>
+          <w lemma="ise" pos="P" msd="Sg.Par">ennast</w>
+          <w lemma="see" pos="P" msd="Sg.Ine">ses</w>
+          <w lemma="tükk" pos="S" msd="Sg.Ine">tükis</w>
+        </s>
+      </div>
+      <emph type="underline">
+        <w lemma="parandama" pos="V" msd="Inf">parandada</w>
+      </emph>
+      <div orig="ger">
+        <s>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vähemalt" pos="D" msd="">vähemalt</w>
+          <w lemma="senikaua" pos="D" msd="">senikaua</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kuni" pos="J" msd="">kuni</w>
+          <w lemma="siinne" pos="A" msd="Pl.Gen">siinsete</w>
+          <w lemma="inimeselaps" pos="S" msd="Pl.Gen">inimeselaste</w>
+          <w lemma="tervisejärg" pos="S" msd="Sg.Nom">tervisejärg</w>
+          <w lemma="parandamatu" pos="A" msd="Sg.Tra">parandamatuks</w>
+          <w lemma="jääma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">jääb</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="sina" pos="P" msd="Pl.Ade">Teil</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="ju" pos="D" msd="">ju</w>
+          <date when="2023-12-19">
+            <w lemma="täna" pos="D" msd="">täna</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="leht" pos="S" msd="Sg.Ela">lehest</w>
+          <w lemma="lugema" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">lugesin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <w lemma="quasi" pos="S" msd="Sg.Nom">quasi</w>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <w lemma="pidupäev" pos="S" msd="Sg.Nom">pidupäev</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="uus" pos="A" msd="Sg.Nom">uus</w>
+          <w lemma="karjane" pos="S" msd="Sg.Nom">karjane</w>
+          <w lemma="Eisenschmidt" pos="H" msd="Sg.Nom">Eisenschmidt</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="tulevane" pos="A" msd="Sg.Gen">tulevase</w>
+          <w lemma="kari" pos="S" msd="Sg.Gen">karja</w>
+          <w lemma="eestvedaja" pos="S" msd="Sg.Tra">eestvedajaks</w>
+          <w lemma="amet" pos="S" msd="Sg.Ill">ametisse</w>
+          <w lemma="panema" pos="V" msd="Impers.Prs.Ind.Aff">pannakse</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kuis" pos="D" msd="">kuis</w>
+          <w lemma="võtma" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">võtavad</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="küll" pos="D" msd="">küll</w>
+          <w lemma="tema" pos="P" msd="Sg.Gen">ta</w>
+          <w lemma="hoolealune" pos="A" msd="Pl.Nom">hoolealused</w>
+          <w lemma="hõiskama" pos="V" msd="Ger">hõisates</w>
+          <w lemma="muu" pos="P" msd="Sg.Gen">muu</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="muu" pos="P" msd="Sg.Nom">muu</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+        </s>
+        <s>
+          <w lemma="ammuma" pos="V" msd="Inf">ammuda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="õnnelik" pos="A" msd="Pl.Nom">Õnnelikud</w>
+          <w lemma="aeg" pos="S" msd="Pl.Nom">ajad</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="õnnelik" pos="A" msd="Sg.Nom">õnnelik</w>
+          <w lemma="rahvas" pos="S" msd="Sg.Nom">rahvas</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="sedavärki" pos="D" msd="">sedavärki</w>
+          <w lemma="vaatemäng" pos="S" msd="Pl.Nom">vaatemängud</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="heakskiitmine" pos="S" msd="Sg.Par">heakskiitmist</w>
+          <w lemma="leidma" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">leiavad</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="nagu" pos="D|J" msd="">Nagu</w>
+          <name type="B-ORG">
+            <w lemma="Riia" pos="H" msd="Sg.Gen">Riia</w>
+          </name>
+          <w lemma="ajaleht" pos="S" msd="Sg.Nom">ajaleht</w>
+          <w lemma="teatama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">teatab</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <name type="B-LOC">
+            <w lemma="Tartu" pos="H" msd="Sg.Gen">Tartu</w>
+          </name>
+          <w lemma="ajaleht" pos="S" msd="Sg.Nom">ajaleht</w>
+          <w lemma="tema" pos="P" msd="Sg.All">temale</w>
+          <w lemma="järele" pos="D" msd="">järele</w>
+          <w lemma="kordama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">kordab</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Quot">olevat</w>
+          <w lemma="hiljuti" pos="D" msd="">hiljuti</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <name type="B-LOC">
+            <w lemma="võru" pos="S" msd="Sg.Ade">Võrul</w>
+          </name>
+          <w lemma="sedasorti" pos="A" msd="">sedasorti</w>
+          <w lemma="pidupäev" pos="S" msd="Sg.Gen">pidupäeva</w>
+          <w lemma="pühitsetu" pos="S" msd="Pl.Nom">pühitsetud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="küllap" pos="D" msd="">Küllap</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">oleksin</w>
+          <w lemma="võima|võinud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">võinud</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="varem" pos="D" msd="">varemgi</w>
+          <w lemma="mõni" pos="P" msd="Sg.Ela">mõnest</w>
+          <w lemma="lähem" pos="C" msd="Sg.Ela">lähemast</w>
+          <w lemma="allikas" pos="S" msd="Sg.Ela">allikast</w>
+          <w lemma="kuulma" pos="V" msd="Inf">kuulda</w>
+          <w lemma="saama" pos="V" msd="Inf">saada</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kui" pos="D|J" msd="">kui</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="asi" pos="S" msd="Sg.Nom">asi</w>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <w lemma="huvitama|huvitanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">huvitanud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="müür" pos="S" msd="Pl.Com">Müüridega</w>
+          <w lemma="piirama|piiratud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">piiratud</w>
+          <w lemma="ruum" pos="S" msd="Sg.Nom">ruum</w>
+          <w lemma="näiksema" pos="V" msd="">näikse</w>
+          <w lemma="mina" pos="P" msd="Sg.All">minule</w>
+          <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
+          <w lemma="jaoks" pos="K" msd="">jaoks</w>
+          <w lemma="liialt" pos="D" msd="">liialt</w>
+          <w lemma="pisuke" pos="A" msd="Sg.Nom">pisuke</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Quot">olevat</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="jumal" pos="S" msd="Sg.All">jumalale</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kõik" pos="P" msd="Pl.Gen">kõigi</w>
+          <w lemma="maailm" pos="S" msd="Pl.Gen">maailmade</w>
+          <w lemma="looja" pos="S" msd="Sg.All">loojale</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="palve" pos="S" msd="Sg.Par">palvet</w>
+          <w lemma="tegema" pos="V" msd="Inf">teha</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="tema" pos="P" msd="Sg.Gen">Tema</w>
+          <w lemma="tempel" pos="S" msd="Sg.Ade">templil</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="hoopis" pos="D" msd="">hoopis</w>
+          <w lemma="suurem" pos="C" msd="Pl.Nom">suuremad</w>
+          <w lemma="dimensioon" pos="S" msd="Pl.Nom">dimensioonid</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="seal" pos="D" msd="">seal</w>
+          <w lemma="jätkuma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">jätkub</w>
+          <w lemma="küllaldaselt" pos="D" msd="">küllaldaselt</w>
+          <w lemma="eluase" pos="S" msd="Pl.Par">eluasemeid</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kus" pos="D" msd="">kus</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="üksnes" pos="D" msd="">üksnes</w>
+          <w lemma="kõik" pos="P" msd="Pl.Nom|Sg.Nom">kõik</w>
+          <w lemma="kiriklik" pos="A" msd="Pl.Nom">kiriklikud</w>
+          <w lemma="usutunnistus" pos="S" msd="Pl.Nom">usutunnistused</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vaid" pos="J" msd="">vaid</w>
+          <w lemma="isegi" pos="D" msd="">isegi</w>
+          <w lemma="juut" pos="S" msd="Pl.Nom">juudid</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="pagan" pos="S" msd="Pl.Nom">paganad</w>
+          <w lemma="lahedasti" pos="D" msd="">lahedasti</w>
+          <w lemma="ruum" pos="S" msd="Sg.Par">ruumi</w>
+          <w lemma="leidma" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff">leiavad</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="kõik" pos="P" msd="Pl.Com">kõikidega</w>
+          <w lemma="üheskoos" pos="D" msd="">üheskoos</w>
+          <w lemma="või" pos="J" msd="">või</w>
+          <w lemma="igamees" pos="S" msd="Sg.Nom">igamees</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="viis" pos="S" msd="Sg.Gen">viisi</w>
+          <w lemma="järgi" pos="K" msd="">järgi</w>
+          <w lemma="palve" pos="S" msd="Sg.Par">palvet</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tänu" pos="S" msd="Sg.Par">tänu</w>
+          <w lemma="tegema" pos="V" msd="Inf">teha</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="seesinane" pos="P" msd="Sg.Gen">Sellesinatse</w>
+          <w lemma="ülestunnistus" pos="S" msd="Sg.Gen">ülestunnistuse</w>
+          <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">peate</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="armas" pos="A" msd="Sg.Nom">armas</w>
+          <w lemma="laps" pos="S" msd="Sg.Nom">laps</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="juba" pos="D" msd="">juba</w>
+          <w lemma="iseenese" pos="P" msd="Sg.Gen">iseenese</w>
+          <w lemma="pärast" pos="K" msd="">pärast</w>
+          <w lemma="oma" pos="D" msd="">oma</w>
+          <w lemma="teadma" pos="V" msd="Inf">teada</w>
+          <w lemma="jätma" pos="V" msd="Pers.Sup.Ill">jätma</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="muidu" pos="D" msd="">muidu</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond.Pl.2.Aff">võiksite</w>
+          <w lemma="viimati" pos="D" msd="">viimati</w>
+          <w lemma="veel" pos="D" msd="">veel</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="hea" pos="A" msd="Sg.Ela">heast</w>
+          <w lemma="nimi" pos="S" msd="Sg.Ela">nimest</w>
+          <w lemma="ilma" pos="D" msd="">ilma</w>
+          <w lemma="jääma" pos="V" msd="Inf">jääda</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="oma" pos="P" msd="Sg.Gen">Oma</w>
+          <w lemma="viimane" pos="A" msd="Sg.Ine">viimases</w>
+          <w lemma="kiri" pos="S" msd="Sg.Ine">kirjas</w>
+          <name type="B-PER">
+            <w lemma="Schott|Schotti" pos="H" msd="Sg.All">Schottile</w>
+          </name>
+          <w lemma="kõnelema" pos="V" msd="Pers.Prt.Ind.Sg.1.Aff">kõnelesin</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="muuseas" pos="D" msd="">muuseas</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="haige" pos="S" msd="Sg.Ela">haigest</w>
+          <w lemma="käsi" pos="S" msd="Sg.Ela">käest</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="mis" pos="P" msd="Pl.Gen|Sg.Gen">mille</w>
+          <w lemma="peale" pos="K" msd="">peale</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="vastama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">vastab</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tema" pos="P" msd="Sg.Nom">tema</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Quot">olevat</w>
+          <w lemma="see" pos="P" msd="Sg.Par">seda</w>
+          <w lemma="täiesti" pos="D" msd="">täiesti</w>
+          <w lemma="ilmvõimatu" pos="A" msd="Sg.Tra">ilmvõimatuks</w>
+          <w lemma="pidama|pidanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">pidanud</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="ööbik" pos="S" msd="Sg.Nom">Ööbik</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="üleüldse" pos="D" msd="">üleüldse</w>
+          <w lemma="haige" pos="A" msd="Sg.Tra">haigeks</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Cond">võiks</w>
+          <w lemma="jääma" pos="V" msd="Inf">jääda</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kes" pos="P" msd="Pl.Gen|Sg.Gen">kelle</w>
+          <w lemma="kohta" pos="K" msd="">kohta</w>
+          <w lemma="tema" pos="P" msd="Sg.Gen">tema</w>
+          <w lemma="ungarlane" pos="S" msd="Sg.Ela">ungarlasest</w>
+          <w lemma="sõber" pos="S" msd="Sg.Nom">sõber</w>
+          <w lemma="Hunfalvy" pos="H" msd="Sg.Nom">Hunfalvy</w>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="trükkimata" pos="A" msd="">trükkimata</w>
+          <w lemma="reisikirjeldus" pos="S" msd="Sg.Ine">reisikirjelduses</w>
+          <w lemma="järgmine" pos="A" msd="Sg.Gen">järgmise</w>
+          <w lemma="iseloomustus" pos="S" msd="Sg.Gen">iseloomustuse</w>
+          <w lemma="andma|andnud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">andnud</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="Lydia" pos="H" msd="Sg.Ade">Lydial</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="nähtavasti" pos="D" msd="">nähtavasti</w>
+          <w lemma="just" pos="D|I" msd="">just</w>
+          <w lemma="niisamasugune" pos="P" msd="Sg.Nom">niisamasugune</w>
+          <w lemma="õnnelik" pos="A" msd="Sg.Nom">õnnelik</w>
+          <w lemma="kehaehitus" pos="S" msd="Sg.Nom">kehaehitus</w>
+          <w lemma="nagu" pos="D|J" msd="">nagu</w>
+          <w lemma="väike|väikene" pos="A" msd="Sg.Ade">väikesel</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tuliterve" pos="A" msd="Sg.Ade">tulitervel</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tüsedavõitu" pos="D" msd="">tüsedavõitu</w>
+          <w lemma="härra" pos="S" msd="Sg.Nom">härra</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <name type="B-ORG">
+            <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          </name>
+          <name type="I-ORG">
+            <w lemma="Postimees|Postimehe" pos="H" msd="Sg.Ade">Postimehel</w>
+          </name>
+          <name type="I-ORG">
+            <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          </name>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="seejärel" pos="D" msd="">Seejärel</w>
+          <w lemma="kiitma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">kiidab</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="elav" pos="A" msd="Sg.Par">elavat</w>
+          <w lemma="vaim" pos="S" msd="Sg.Par">vaimu</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="jutuvestmine" pos="S" msd="Sg.Gen">jutuvestmise</w>
+          <w lemma="osavus" pos="S" msd="Sg.Par">osavust</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="kusjuures" pos="D" msd="">kusjuures</w>
+          <w lemma="mitte" pos="D" msd="">mitte</w>
+          <w lemma="kübe" pos="S" msd="Sg.Par">kübetki</w>
+          <w lemma="kõrkus" pos="S" msd="Sg.Par">kõrkust</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="tegema|tehtud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">tehtud</w>
+          <w lemma="olemine" pos="S" msd="Sg.Par">olemist</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="leiduv" pos="A" msd="Sg.Par">leiduvat</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <name type="B-PER">
+            <w lemma="Schott" pos="H" msd="Sg.Nom">Schott</w>
+          </name>
+          <w lemma="lisama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">lisab</w>
+          <w lemma="oma" pos="P" msd="Sg.Abl">omalt</w>
+          <w lemma="poolt" pos="K" msd="">poolt</w>
+          <w lemma="juurde" pos="D" msd="">juurde</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <w lemma="kuigi" pos="D|J" msd="">kuigi</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="tervisejärg" pos="S" msd="Sg.Gen">tervisejärje</w>
+          <w lemma="äratundmine" pos="S" msd="Sg.Gen">äratundmise</w>
+          <w lemma="asi" pos="S" msd="Pl.Ine">asjus</w>
+          <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+          <w lemma="arstisilm" pos="S" msd="Sg.Ill">arstisilma</w>
+          <w lemma="rohkem" pos="D" msd="">rohkem</w>
+          <w lemma="usaldav" pos="A" msd="Sg.Par">usaldavat</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="soovima" pos="V" msd="Pers.Prs.Quot">soovivat</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="ometigi" pos="D" msd="">ometigi</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="sedapuhku" pos="D" msd="">sedapuhku</w>
+          <w lemma="härra" pos="S" msd="Sg.Nom">härra</w>
+          <name type="B-PER">
+            <w lemma="Hunfalvyl" pos="H" msd="Sg.Nom">Hunfalvyl</w>
+          </name>
+          <w lemma="õigus" pos="S" msd="Sg.Nom">õigus</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="kuna" pos="J" msd="">Kuna</w>
+          <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="nüüd" pos="D" msd="">nüüd</w>
+          <w lemma="vahepeal" pos="D" msd="">vahepeal</w>
+          <w lemma="tema" pos="P" msd="Sg.All">temale</w>
+          <w lemma="ise" pos="D" msd="">ise</w>
+          <w lemma="kirjutama|kirjutanud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">kirjutanud</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="siis" pos="D" msd="">siis</w>
+          <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">võib</w>
+          <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
+          <w lemma="see" pos="P" msd="Sg.Ela">sellest</w>
+          <w lemma="nägema" pos="V" msd="Inf">näha</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="et" pos="J" msd="">et</w>
+          <w lemma="tõrges" pos="A" msd="Sg.Nom">tõrges</w>
+          <w lemma="käsi" pos="S" msd="Sg.Nom">käsi</w>
+          <w lemma="jälle" pos="D" msd="">jälle</w>
+          <w lemma="sõnavõtlik" pos="A" msd="Sg.Tra">sõnavõtlikuks</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="muutuma|muutunud" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">muutunud</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="moondamata" pos="A" msd="">Moondamata</w>
+          <w lemma="austus" pos="S" msd="Sg.Ine">austuses</w>
+          <w lemma="tervitama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">tervitab</w>
+          <w lemma="sina" pos="P" msd="Pl.Par">Teid</w>
+          <w lemma="kõik" pos="P" msd="Sg.Ela">kõigest</w>
+          <w lemma="süda" pos="S" msd="Sg.Ela">südamest</w>
+          <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+          <w lemma="truu" pos="A" msd="Sg.Nom">truu</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="ustav" pos="A" msd="Sg.Nom">ustav</w>
+        </s>
+      </div>
+    </p>
+    <p>
+      <div orig="ger">
+        <s>
+          <w lemma="priileib" pos="S" msd="Sg.All">priileivale</w>
+          <w lemma="laskma|lastud" pos="A|V" msd="Impers.Prt.Ind.Neg|Impers.Prt.Prc|Pl.Nom|Sg.Nom">lastud</w>
+        </s>
+      </div>
+      <div orig="est">
+        <s>
+          <name type="B-ORG">
+            <w lemma="Viru" pos="H" msd="Sg.Gen">Viru</w>
+          </name>
+          <name type="I-ORG">
+            <w lemma="laulik" pos="S" msd="Sg.Nom">laulik</w>
+          </name>
+        </s>
+      </div>
+      <div orig="ger">
+        <s>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </div>
+    </p>
+  </body>
+  <notes>
+    <footnote id="fn1">
+      <label>
+        <w lemma="1" pos="N" msd="?">1</w>
+      </label>
+      <p>
+        <s>
+          <name type="B-PER">
+            <w lemma="Carl" pos="H" msd="Sg.Nom">Carl</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="W" pos="Y" msd="?">W</w>
+          </name>
+          <pc lemma="." pos="Z" msd="">.</pc>
+          <w lemma="J" pos="Y" msd="?">J</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+          <w lemma="von" pos="S" msd="Sg.Nom">von</w>
+          <w lemma="Trojanowsky" pos="H" msd="Sg.Nom">Trojanowsky</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="1841" pos="N" msd="?">1841</w>
+          <pc lemma="-" pos="Z" msd="">—?),</pc>
+          <name type="B-LOC">
+            <w lemma="Võru" pos="H" msd="Sg.Gen">Võru</w>
+          </name>
+          <w lemma="kreisiarst" pos="S" msd="Sg.Nom">kreisiarst</w>
+          <w lemma="1870" pos="N" msd="?">1870</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="1875" pos="N" msd="?">1875</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="hiljem" pos="D" msd="">hiljem</w>
+          <name type="B-LOC">
+            <w lemma="Tartu" pos="H" msd="Sg.Ine">Tartus</w>
+          </name>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn2">
+      <label>
+        <w lemma="2" pos="N" msd="?">2</w>
+      </label>
+      <p>
+        <s>
+          <name type="B-PER">
+            <w lemma="Ferdinand" pos="H" msd="Sg.Nom">Ferdinand</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Löwe" pos="H" msd="Sg.Nom">Löwe</w>
+          </name>
+          <w lemma="teostama|teostatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">teostatud</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-PER">
+            <w lemma="Kalevipoeg" pos="H" msd="Sg.Gen">Kalevipoja</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="saksakeelne" pos="A" msd="Sg.Ela">saksakeelsest</w>
+          <w lemma="tõlge" pos="S" msd="Sg.Ela">tõlkest</w>
+          <w lemma="ilmuma" pos="V" msd="Pers.Prt.Ind.Pl.3.Aff">ilmusid</w>
+          <name type="B-ORG">
+            <w lemma="I" pos="Y" msd="?">I</w>
+          </name>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="IV" pos="O" msd="?">IV</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="värss" pos="S" msd="Pl.Nom">värsid</w>
+          <w lemma="1" pos="N" msd="?">1</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="250" pos="N" msd="?">250</w>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="XVII" pos="O" msd="?">XVII</w>
+          <w lemma="lugu" pos="S" msd="Sg.Nom">lugu</w>
+          <w lemma="esmakordselt" pos="D" msd="">esmakordselt</w>
+          <name type="B-ORG">
+            <w lemma="ÕES" pos="Y" msd="Sg.Gen">ÕESi</w>
+          </name>
+          <w lemma="toimetis" pos="S" msd="Pl.Ine">toimetistes</w>
+          <date when="1881">
+            <w lemma="1881." pos="O" msd="?">1881.</w>
+            <w lemma="a" pos="Y" msd="?">a</w>
+          </date>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <name type="B-PER">
+            <w lemma="VerhGEG" pos="H" msd="Sg.Nom">VerhGEG</w>
+          </name>
+          <w lemma="X" pos="O" msd="?">X</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="4" pos="N" msd="?">4</w>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="tervik" pos="S" msd="Sg.Ess">tervikuna</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="alles" pos="D" msd="">alles</w>
+          <date when="1900">
+            <w lemma="1900." pos="O" msd="?">1900.</w>
+            <w lemma="a" pos="Y" msd="?">a</w>
+          </date>
+          <pc lemma=";" pos="Z" msd="">;</pc>
+          <w lemma="vrd" pos="Y" msd="?">vrd</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="kirjavahetus" pos="S" msd="Sg.Nom">Kirjavahetus</w>
+          <w lemma="III" pos="O" msd="?">III</w>
+          <pc lemma="-" pos="Z" msd="">–</pc>
+          <w lemma="IV" pos="O" msd="?">IV</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="reg" pos="S" msd="Sg.Nom">reg</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="järgi" pos="K" msd="">järgi</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn3">
+      <label>
+        <w lemma="3" pos="N" msd="?">3</w>
+      </label>
+      <p>
+        <s>
+          <name type="B-ORG">
+            <w lemma="Vt" pos="Y" msd="?">Vt</w>
+          </name>
+          <name type="I-ORG">
+            <w lemma="Dörpt" pos="H" msd="Sg.Nom">Dörpt</w>
+          </name>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="Ztg" pos="H" msd="Sg.Nom">Ztg</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <date when="1870-05-04">
+            <w lemma="4.05.1870" pos="N" msd="?">4.05.1870</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nr" pos="Y" msd="?">nr</w>
+          <w lemma="102." pos="O" msd="?">102.</w>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn4">
+      <label>
+        <w lemma="4" pos="N" msd="?">4</w>
+      </label>
+      <p>
+        <s>
+          <name type="B-PER">
+            <w lemma="C. E. Malm" pos="H" msd="Sg.Nom">C. E. Malm</w>
+          </name>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="vana" pos="A" msd="Sg.Par">Vana</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <w lemma="uus" pos="A" msd="Sg.Par">uut</w>
+          <w lemma="eesti" pos="G" msd="">eesti</w>
+          <w lemma="rahvas" pos="S" msd="Sg.Gen">rahva</w>
+          <w lemma="ajaviide" pos="S" msd="Sg.Tra">ajaviiteks</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vt" pos="Y" msd="?">vt</w>
+          <w lemma="kiri" pos="S" msd="Sg.Nom">kiri</w>
+          <w lemma="62" pos="N" msd="?">62</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="viide" pos="S" msd="Sg.Nom">viide</w>
+          <w lemma="3." pos="O" msd="?">3.</w>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn5">
+      <label>
+        <w lemma="5" pos="N" msd="?">5</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="Tsitaat" pos="H" msd="Sg.Nom">Tsitaat</w>
+          <w lemma="Ernst" pos="H" msd="Sg.Nom">Ernst</w>
+          <w lemma="von" pos="S" msd="Sg.Nom">von</w>
+          <name type="B-PER">
+            <w lemma="Houwald|Houwaldi|Houwalt" pos="H" msd="Sg.Gen">Houwaldi</w>
+          </name>
+          <w lemma="näidend" pos="S" msd="Sg.Ela">näidendist</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <name type="B-ORG">
+            <w lemma="Der" pos="H" msd="Sg.Nom">Der</w>
+          </name>
+          <name type="I-ORG">
+            <w lemma="Leuchtturm" pos="H" msd="Sg.Nom">Leuchtturm</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <name type="B-ORG">
+            <w lemma="Kr" pos="Y" msd="Sg.Gen">Kr-i</w>
+          </name>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="Tuletorn" pos="H" msd="Sg.Nom">Tuletorn</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="tõlge" pos="S" msd="Sg.Ine">Tõlkes</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <w lemma="nii" pos="D" msd="">Nii</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">olen</w>
+          <w lemma="uni" pos="S" msd="Sg.Par">und</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="nägema|näima" pos="V" msd="Pers.Prt.Prc">näind</w>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="elu" pos="S" msd="Sg.Nom">Elu</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+          <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+          <w lemma="ärgas" pos="A" msd="Sg.Tra">ärksaks</w>
+          <w lemma="tegema" pos="V" msd="Pers.Prt.Prc">teind</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn6">
+      <label>
+        <w lemma="6" pos="N" msd="?">6</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="värss" pos="S" msd="Sg.Nom">Värss</w>
+          <w lemma="saksa" pos="G" msd="">saksa</w>
+          <w lemma="lauluke" pos="S" msd="Sg.Ela">laulukesest</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="Wenn" pos="H" msd="Sg.Nom">Wenn</w>
+          <w lemma="ich" pos="S" msd="Sg.Nom">ich</w>
+          <w lemma="ein" pos="S" msd="Sg.Nom">ein</w>
+          <name type="B-ORG">
+            <w lemma="Vöglein" pos="H" msd="Sg.Nom">Vöglein</w>
+          </name>
+          <name type="I-ORG">
+            <w lemma="wär" pos="S" msd="Sg.Nom">wär</w>
+          </name>
+          <name type="I-ORG">
+            <pc lemma="’" pos="Z" msd="">'</pc>
+          </name>
+          <name type="I-ORG">
+            <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          </name>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="kui" pos="D|J" msd="">Kui</w>
+          <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
+          <w lemma="olema" pos="V" msd="Pers.Prs.Cond.Sg.1.Aff">oleksin</w>
+          <w lemma="linnuke" pos="S" msd="Sg.Nom">linnuke</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="tõlge" pos="S" msd="Sg.Ine">Tõlkes</w>
+          <pc lemma=":" pos="Z" msd="">:</pc>
+          <w lemma="et" pos="J" msd="">Et</w>
+          <w lemma="aga" pos="J" msd="">aga</w>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="läe" pos="S" msd="Sg.Nom">läe</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="see" pos="P" msd="Sg.Nom">see</w>
+          <w lemma="ei" pos="V" msd="Neg">ei</w>
+          <w lemma="läe" pos="S" msd="Sg.Nom">läe</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn7">
+      <label>
+        <w lemma="7" pos="N" msd="?">7</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="s.o" pos="Y" msd="?">s.o</w>
+          <w lemma="vahend" pos="S" msd="Pl.Com">vahenditega</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn8">
+      <label>
+        <w lemma="8" pos="N" msd="?">8</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="miniatuur" pos="S" msd="Sg.Ine">miniatuuris</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="pr" pos="Y" msd="?">pr</w>
+          <w lemma="k" pos="Y" msd="?">k</w>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn9">
+      <label>
+        <w lemma="9" pos="N" msd="?">9</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="Kr" pos="Y" msd="?">Kr.</w>
+          <w lemma="näiksema" pos="V" msd="">näikse</w>
+          <w lemma="kõnelev" pos="A" msd="Sg.Par">kõnelevat</w>
+          <w lemma="koos" pos="K" msd="">koos</w>
+          <date when="2024-05-02">
+            <w lemma="2." pos="O" msd="?">2.</w>
+            <w lemma="mai" pos="S" msd="Sg.Gen">mai</w>
+          </date>
+          <w lemma="kiri" pos="S" msd="Sg.Com">kirjaga</w>
+          <w lemma="saadud|saama" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">saadud</w>
+          <name type="B-PER">
+            <w lemma="Koidula" pos="H" msd="Sg.Gen">Koidula</w>
+          </name>
+          <w lemma="luuletus" pos="S" msd="Pl.Ela">luuletustest</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn10">
+      <label>
+        <w lemma="10" pos="N" msd="?">10</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="rõõmujoovastuse-kuu" pos="S" msd="Sg.Gen">rõõmujoovastuse-kuu</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="sks" pos="Y" msd="?">sks</w>
+          <w lemma="k" pos="Y" msd="?">k</w>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn11">
+      <label>
+        <w lemma="11" pos="N" msd="?">11</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="mõnusus" pos="S" msd="Sg.Gen">mõnususe</w>
+          <w lemma="hävitaja" pos="S" msd="Sg.Nom">hävitaja</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="sks" pos="Y" msd="?">sks</w>
+          <w lemma="k" pos="Y" msd="?">k</w>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn12">
+      <label>
+        <w lemma="12" pos="N" msd="?">12</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="W. Schott" pos="H" msd="?">W. Schott</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <name type="B-ORG">
+            <w lemma="Die" pos="H" msd="Sg.Gen">Die</w>
+          </name>
+          <w lemma="estnischen" pos="S" msd="Sg.Nom">estnischen</w>
+          <name type="B-PER">
+            <w lemma="Sagen" pos="H" msd="Sg.Nom">Sagen</w>
+          </name>
+          <w lemma="vom" pos="S" msd="Sg.Nom">vom</w>
+          <w lemma="Kalewi-poeg" pos="S" msd="Sg.Nom">Kalewi-poeg</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="Berlin" pos="H" msd="Sg.Nom">Berlin</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="1863" pos="N" msd="?">1863</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lk" pos="Y" msd="?">lk</w>
+          <w lemma="417" pos="N" msd="?">417</w>
+          <pc lemma="-" pos="Z" msd="">–</pc>
+          <w lemma="418" pos="N" msd="?">418</w>
+          <pc lemma=";" pos="Z" msd="">;</pc>
+          <w lemma="vrd" pos="Y" msd="?">vrd</w>
+          <w lemma="ka" pos="D" msd="">ka</w>
+          <w lemma="kiri" pos="S" msd="Sg.Nom">kiri</w>
+          <w lemma="30." pos="O" msd="?">30.</w>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn13">
+      <label>
+        <w lemma="13" pos="N" msd="?">13</w>
+      </label>
+      <p>
+        <s>
+          <w lemma="Pastor" pos="H" msd="Sg.Nom">Pastor</w>
+          <w lemma="Eisenschmidt|Eisenschmidti" pos="H" msd="Sg.Gen">Eisenschmidti</w>
+          <w lemma="pidulik" pos="A" msd="Sg.Nom">pidulik</w>
+          <w lemma="ametisseastumine" pos="S" msd="Sg.Nom">ametisseastumine</w>
+          <w lemma="toimuma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">toimus</w>
+          <date when="1870-05-17">
+            <w lemma="17." pos="O" msd="?">17.</w>
+            <w lemma="maa|mai" pos="S" msd="Pl.Ade|Sg.Ade">mail</w>
+            <w lemma="1870" pos="N" msd="?">1870</w>
+          </date>
+          <pc lemma=";" pos="Z" msd="">;</pc>
+          <w lemma="vrd" pos="Y" msd="?">vrd</w>
+          <name type="B-PER">
+            <w lemma="E. Post" pos="H" msd="Sg.Nom">E. Post</w>
+          </name>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <date when="1870-05-13">
+            <w lemma="13.05.1870" pos="N" msd="?">13.05.1870</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lk" pos="Y" msd="?">lk</w>
+          <w lemma="76" pos="N" msd="?">76</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <date when="1870-05-18">
+            <w lemma="18.05.1870" pos="N" msd="?">18.05.1870</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lk" pos="Y" msd="?">lk</w>
+          <w lemma="78." pos="O" msd="?">78.</w>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn14">
+      <label>
+        <w lemma="14" pos="N" msd="?">14</w>
+      </label>
+      <p>
+        <s>
+          <date when="1870-04-26">
+            <w lemma="26.04.1870" pos="N" msd="?">26.04.1870</w>
+          </date>
+          <w lemma="toimuma" pos="V" msd="Pers.Prt.Ind.Sg.3.Aff">toimus</w>
+          <name type="B-LOC">
+            <w lemma="Võru" pos="H" msd="Sg.Gen">Võru</w>
+          </name>
+          <w lemma="uus" pos="A" msd="Sg.Gen">uue</w>
+          <w lemma="pastor" pos="S" msd="Sg.Gen">pastori</w>
+          <name type="B-PER">
+            <w lemma="Heinrich" pos="H" msd="Sg.Nom">Heinrich</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Ewald" pos="H" msd="Sg.Nom">Ewald</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Strucki" pos="H" msd="Sg.Nom">Strucki</w>
+          </name>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <w lemma="1838" pos="N" msd="?">1838</w>
+          <pc lemma="-" pos="Z" msd="">–</pc>
+          <date when="1917">
+            <w lemma="1917" pos="N" msd="?">1917</w>
+          </date>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <w lemma="ametisseastumine" pos="S" msd="Sg.Nom">ametisseastumine</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="vrd" pos="Y" msd="?">vrd</w>
+          <w lemma="Rig" pos="H" msd="Sg.Nom">Rig</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="Ztg" pos="H" msd="Sg.Nom">Ztg</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <date when="1870-05-08">
+            <w lemma="8.05.1870" pos="N" msd="?">8.05.1870</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nr" pos="Y" msd="?">nr</w>
+          <w lemma="105" pos="N" msd="?">105</w>
+          <w lemma="ja" pos="J" msd="">ja</w>
+          <name type="B-PER">
+            <w lemma="Dörpt" pos="H" msd="Sg.Nom">Dörpt</w>
+          </name>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <w lemma="Ztg" pos="H" msd="Sg.Nom">Ztg</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <date when="1870-05-11">
+            <w lemma="11.05.1870" pos="N" msd="?">11.05.1870</w>
+          </date>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="nr" pos="Y" msd="?">nr</w>
+          <w lemma="108." pos="O" msd="?">108.</w>
+        </s>
+      </p>
+    </footnote>
+    <footnote id="fn15">
+      <label>
+        <w lemma="15" pos="N" msd="?">15</w>
+      </label>
+      <p>
+        <s>
+          <name type="B-PER">
+            <w lemma="Wilhelm" pos="H" msd="Sg.Nom">Wilhelm</w>
+          </name>
+          <name type="I-PER">
+            <w lemma="Schott" pos="H" msd="Sg.Nom">Schott</w>
+          </name>
+          <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+          <w lemma="kiri" pos="S" msd="Sg.Ine">kirjas</w>
+          <name type="B-ORG">
+            <w lemma="Kr" pos="Y" msd="Sg.All">Kr-le</w>
+          </name>
+          <date when="1870-05-03">
+            <w lemma="3." pos="O" msd="?">3.</w>
+            <w lemma="maa|mai" pos="S" msd="Pl.Ela|Sg.Ela">maist</w>
+            <w lemma="1870" pos="N" msd="?">1870</w>
+          </date>
+          <w lemma="ukj" pos="Y" msd="?">ukj</w>
+          <pc lemma="." pos="Z" msd="">.</pc>
+        </s>
+        <s>
+          <pc lemma="-" pos="Z" msd="">—</pc>
+          <w lemma="paar" pos="N" msd="Sg.Nom">Paar</w>
+          <w lemma="sammuke" pos="S" msd="Sg.Par">sammukest</w>
+          <w lemma="II" pos="O" msd="?">II</w>
+          <pc lemma="(" pos="Z" msd="">(</pc>
+          <date when="1961">
+            <w lemma="1961" pos="N" msd="?">1961</w>
+          </date>
+          <pc lemma=")" pos="Z" msd="">)</pc>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="lk" pos="Y" msd="?">lk</w>
+          <w lemma="331." pos="O" msd="?">331.</w>
+        </s>
+      </p>
+    </footnote>
+  </notes>
+</text>
