@@ -14,7 +14,7 @@ TARGET="collection.xml"
 
 echo '<?xml version="1.0" encoding="UTF-8"?>' > $TARGET
 echo "<collection>" >> $TARGET
-for i in  ui*xml; 
+for i in  koi*xml; 
 do echo "<doc href=\"$i\"/>" >> $TARGET
 done
 echo "</collection>" >> $TARGET
