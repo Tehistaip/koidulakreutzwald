@@ -18,7 +18,12 @@
       <xsl:attribute name="source">
 	<xsl:value-of select="./body/h2/@source" />
       </xsl:attribute>
-
+      <xsl:attribute name="recipient">
+	<xsl:call-template name="substring-after-last">
+          <xsl:with-param name="input" select="./body/h2" />
+          <xsl:with-param name="marker" select="' '" />
+        </xsl:call-template>
+      </xsl:attribute>
     </xsl:element>
     <xsl:apply-templates />
   </xsl:template>
@@ -49,6 +54,38 @@
   
   <xsl:template match="date">
     <xsl:copy-of select="*"/>
+  </xsl:template>
+
+  <xsl:template match="source" />
+  <xsl:template match="h2" />
+
+  <xsl:template name="substring-after-last">
+    <xsl:param name="input" />
+    <xsl:param name="marker" />
+    <xsl:choose>
+      <xsl:when test="contains($input,$marker)">
+        <xsl:call-template name="substring-after-last">
+          <xsl:with-param name="input"
+			  select="substring-after($input,$marker)" />
+          <xsl:with-param name="marker" select="$marker" />
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="$input" />
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <xsl:template name="get-recipient">
+    <xsl:param name="input" />
+    <xsl:choose>
+      <xsl:when test="substring($input,1,3)='KOI'">
+	KREUTZWALD
+      </xsl:when>
+      <xsl:otherwise>
+	KOIDULA
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
 
