@@ -4,6 +4,13 @@
   <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
   <xsl:strip-space elements="*"/>
 
+  <xsl:template match="text">
+    <xsl:attribute name="title">
+      <xsl:value-of select="body/h2" />
+    </xsl:attribute>
+  </xsl:template>
+  
+  
   <xsl:template match="@*|node()">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
@@ -30,5 +37,6 @@
   <xsl:template match="date">
     <xsl:copy-of select="*"/>
   </xsl:template>
+
 
 </xsl:stylesheet>
