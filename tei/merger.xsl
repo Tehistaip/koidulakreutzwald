@@ -5,7 +5,10 @@
 
   <xsl:template match="collection">
     <corpus>
-      <xsl:copy-of select="document(doc/@href)/corpus/text"/>
+      <xsl:copy-of select="document(doc/@href)/text"/>
     </corpus>
+  </xsl:template>
+  <xsl:template match="date">
+    <xsl:value-of select="."/>
   </xsl:template>
 </xsl:transform>
