@@ -71,7 +71,10 @@
         </xsl:call-template>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:value-of select="$input" />
+	<xsl:choose>
+	  <xsl:when test="contains($input,'KOID')">KOIDULA</xsl:when>
+	  <xsl:otherwise>KREUTZWALD</xsl:otherwise>
+	</xsl:choose>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
