@@ -5,9 +5,22 @@
   <xsl:strip-space elements="*"/>
 
   <xsl:template match="text">
-    <xsl:attribute name="title">
-      <xsl:value-of select="body/h2" />
-    </xsl:attribute>
+    <xsl:element name="text">
+      <xsl:attribute name="title">
+	<xsl:value-of select="./body/h2" />
+      </xsl:attribute>
+      <xsl:attribute name="author">
+	<xsl:value-of select="./body/h2/@author" />
+      </xsl:attribute>
+      <xsl:attribute name="number">
+	<xsl:value-of select="./body/h2/@number" />
+      </xsl:attribute>
+      <xsl:attribute name="source">
+	<xsl:value-of select="./body/h2/@source" />
+      </xsl:attribute>
+
+    </xsl:element>
+    <xsl:apply-templates />
   </xsl:template>
   
   
