@@ -14,8 +14,21 @@
     <xsl:value-of select="."/>
   </xsl:template>
   
+
   <xsl:template match="s">
-    <xsl:copy-of select="date/node()"/>
-    <xsl:copy-of select="node()"/>
+    <xsl:element name="sentece">
+      <xsl:apply-templates />
+    </xsl:element>
   </xsl:template>
+
+  <xsl:template match="p">
+    <xsl:element name="paragraph">
+      <xsl:apply-templates />
+    </xsl:element>
+  </xsl:template>
+  
+  <xsl:template match="date">
+    <xsl:copy-of select="*"/>
+  </xsl:template>
+
 </xsl:stylesheet>
