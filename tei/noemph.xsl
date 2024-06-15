@@ -24,6 +24,9 @@
           <xsl:with-param name="marker" select="' '" />
         </xsl:call-template>
       </xsl:attribute>
+      <xsl:attribute name="date">
+	<xsl:value-of select=".//date/@when" />
+      </xsl:attribute>
     </xsl:element>
     <xsl:apply-templates />
   </xsl:template>
