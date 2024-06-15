@@ -78,18 +78,4 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
-
-  <xsl:template name="get-recipient">
-    <xsl:param name="input" />
-    <xsl:choose>
-      <xsl:when test="substring($input,1,3)='KOI'">
-	KREUTZWALD
-      </xsl:when>
-      <xsl:otherwise>
-	KOIDULA
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:template>
-
-
 </xsl:stylesheet>
