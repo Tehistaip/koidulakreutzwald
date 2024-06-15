@@ -39,7 +39,7 @@
   </xsl:template>
 
   <xsl:template match="emph">
-    <xsl:value-of select="."/>
+    <xsl:copy-of select="*"/>
   </xsl:template>
   
 
