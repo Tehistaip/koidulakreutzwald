@@ -61,6 +61,7 @@
 
   <xsl:template match="source" />
   <xsl:template match="h2" />
+   <xsl:template match="poem" />
 
   <!-- text element, ecipient attribute -->
   <xsl:template name="substring-after-last">
