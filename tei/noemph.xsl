@@ -62,6 +62,7 @@
   <xsl:template match="source" />
   <xsl:template match="h2" />
 
+  <!-- text element, ecipient attribute -->
   <xsl:template name="substring-after-last">
     <xsl:param name="input" />
     <xsl:param name="marker" />
