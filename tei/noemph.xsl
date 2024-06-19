@@ -27,8 +27,8 @@
       <xsl:attribute name="date">
 	<xsl:value-of select=".//date/@when" />
       </xsl:attribute>
+	<xsl:apply-templates />
     </xsl:element>
-    <xsl:apply-templates />
   </xsl:template>
   
   
@@ -44,7 +44,7 @@
   
 
   <xsl:template match="s">
-    <xsl:element name="sentece">
+    <xsl:element name="sentence">
       <xsl:apply-templates />
     </xsl:element>
   </xsl:template>
