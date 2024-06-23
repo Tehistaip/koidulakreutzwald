@@ -24,4 +24,6 @@
    </xsl:template>
    <xsl:template match="notes" />
    <xsl:template match="lg" />
+   <xsl:template match="div/w" />
+   <xsl:template match="div/pc" />
 </xsl:stylesheet>
