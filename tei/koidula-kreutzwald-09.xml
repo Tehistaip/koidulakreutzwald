@@ -1426,13 +1426,9 @@
           <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
           <w lemma="jaoks" pos="K" msd="">jaoks</w>
           <w lemma="ohverdama|ohverdanud" pos="A|V" msd="Pers.Prt.Imprt|Pers.Prt.Ind.Neg|Pers.Prt.Prc|Pl.Nom|Sg.Nom">ohverdanud</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="üksainus" pos="A" msd="Sg.Gen">üheainsagi</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="üksainus" pos="A" msd="Sg.Gen">üheainsagi</w>
+	  </emph>
           <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
           <w lemma="hõlbu-veerandtund" pos="S" msd="Pl.Ela">hõlbu-veerandtundidest</w>
           <pc lemma="!" pos="Z" msd="">!</pc>
