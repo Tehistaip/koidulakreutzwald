@@ -971,16 +971,10 @@
           <w lemma="see" pos="P" msd="Sg.Nom">see</w>
           <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
           <w lemma="veel" pos="D" msd="">veel</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="enam" pos="D" msd="">enam</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="enam" pos="D" msd="">enam</w>
+	  </emph>
           <pc lemma="!" pos="Z" msd="">!</pc>
-        </s>
-        <s>
           <pc lemma="-" pos="Z" msd="">—</pc>
         </s>
       </div>
