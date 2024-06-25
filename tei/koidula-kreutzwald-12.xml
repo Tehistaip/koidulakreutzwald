@@ -1249,13 +1249,9 @@
           <w lemma="mis" pos="P" msd="Pl.Nom|Sg.Nom">mis</w>
           <w lemma="viimane" pos="A" msd="Sg.Gen">viimase</w>
           <w lemma="usutunnistus" pos="S" msd="Sg.Com">usutunnistusega</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="näiliselt" pos="D" msd="">näiliselt</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="näiliselt" pos="D" msd="">näiliselt</w>
+	  </emph>
           <w lemma="ühte" pos="D" msd="">ühte</w>
           <w lemma="ei" pos="V" msd="Neg">ei</w>
           <w lemma="käima" pos="V" msd="Pers.Prs.Ind.Neg">käi</w>
