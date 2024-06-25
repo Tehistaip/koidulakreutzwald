@@ -1237,14 +1237,10 @@
         </s>
         <s>
           <w lemma="kui" pos="D|J" msd="">Kui</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="Heinrich" pos="H" msd="Sg.Nom">Heinrich</w>
-        <w lemma="Heine" pos="H" msd="Sg.Nom">Heine</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="Heinrich" pos="H" msd="Sg.Nom">Heinrich</w>
+            <w lemma="Heine" pos="H" msd="Sg.Nom">Heine</w>
+	  </emph>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kes" pos="P" msd="Pl.Gen|Sg.Gen">kelle</w>
           <w lemma="kõnelema" pos="V" msd="Pers.Prs.Imprt.Sg.2">kõnele</w>
@@ -1541,13 +1537,9 @@
           <w lemma="voolav" pos="A" msd="Sg.Nom">voolav</w>
           <w lemma="ja" pos="J" msd="">ja</w>
           <w lemma="pealegi" pos="D" msd="">pealegi</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="eesti" pos="G" msd="">eesti</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="eesti" pos="G" msd="">eesti</w>
+	  </emph>
           <w lemma="keel" pos="S" msd="Sg.Ine">keeles</w>
           <w lemma="kirjutama|kirjutatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">kirjutatud</w>
           <pc lemma="," pos="Z" msd="">,</pc>
