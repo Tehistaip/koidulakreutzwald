@@ -252,13 +252,9 @@
           <w lemma="see" pos="P" msd="Sg.Par">seda</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="mis" pos="P" msd="Pl.Par|Sg.Par">mida</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="iga" pos="P" msd="Sg.Nom">iga</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="iga" pos="P" msd="Sg.Nom">iga</w>
+	  </emph>
           <w lemma="tütar" pos="S" msd="Sg.Nom">tütar</w>
           <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
           <w lemma="seisukord" pos="S" msd="Sg.Ine">seisukorras</w>
@@ -344,21 +340,13 @@
           <w lemma="sest" pos="J" msd="">sest</w>
           <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
           <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">olen</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="tütar" pos="S" msd="Sg.Nom">tütar</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="tütar" pos="S" msd="Sg.Nom">tütar</w>
+	  </emph>
           <w lemma="ja" pos="J" msd="">ja</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="see" pos="P" msd="Sg.Ine">selles</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="see" pos="P" msd="Sg.Ine">selles</w>
+	  </emph>
           <w lemma="punkt" pos="S" msd="Sg.Ine">punktis</w>
           <w lemma="hell" pos="A" msd="Sg.Nom">hell</w>
           <pc lemma="," pos="Z" msd="">,</pc>
@@ -377,14 +365,10 @@
           <w lemma="andma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">annan</w>
           <w lemma="sina" pos="P" msd="Pl.All">Teile</w>
           <w lemma="õigus" pos="S" msd="Sg.Gen">õiguse</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
-        <w lemma="põlgama" pos="V" msd="Inf">põlata</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+            <w lemma="põlgama" pos="V" msd="Inf">põlata</w>
+	  </emph>
           <pc lemma="!" pos="Z" msd="">!</pc>
         </s>
         <s>
@@ -393,13 +377,9 @@
           <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">tahan</w>
           <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
           <w lemma="ja" pos="J" msd="">ja</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
+	  </emph>
           <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
           <w lemma="lugupidamine" pos="S" msd="Sg.Par">lugupidamist</w>
           <w lemma="iseenese" pos="P" msd="Sg.Gen">iseenese</w>
@@ -530,32 +510,20 @@
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="nagu" pos="D|J" msd="">nagu</w>
           <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
+	  </emph>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="aga" pos="J" msd="">aga</w>
           <w lemma="kas" pos="D" msd="">kas</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">võite</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">võite</w>
+	  </emph>
           <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
           <w lemma="siis" pos="D" msd="">siis</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="nõnda" pos="D" msd="">nõnda</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+	    <w lemma="nõnda" pos="D" msd="">nõnda</w>
+	  </emph>
           <w lemma="olema" pos="V" msd="Inf">olla</w>
           <pc lemma="!" pos="Z" msd="">!</pc>
         </s>
@@ -576,20 +544,14 @@
           <w lemma="mina" pos="P" msd="Sg.All">mulle</w>
           <w lemma="tagasi" pos="D" msd="">tagasi</w>
           <w lemma="mina" pos="P" msd="Sg.Gen">minu</w>
-        </s>
-      </div>
-      <div orig="est">
-        <s>
-          <name type="B-ORG">
-            <w lemma="Viru" pos="H" msd="Sg.Gen">Viru</w>
-          </name>
-          <name type="I-ORG">
-            <w lemma="laulik" pos="S" msd="Sg.Nom">laulik</w>
-          </name>
-        </s>
-      </div>
-      <div orig="ger">
-        <s>
+	  <div orig="est">
+            <name type="B-ORG">
+              <w lemma="Viru" pos="H" msd="Sg.Gen">Viru</w>
+            </name>
+            <name type="I-ORG">
+              <w lemma="laulik" pos="S" msd="Sg.Nom">laulik</w>
+            </name>
+	  </div>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
           <w lemma="elama" pos="V" msd="Ger">elades</w>
@@ -714,13 +676,9 @@
           <w lemma="paistma" pos="V" msd="Pers.Sup.Ill">paistma</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="et" pos="J" msd="">et</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="vorm" pos="S" msd="Sg.Nom">vorm</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="vorm" pos="S" msd="Sg.Nom">vorm</w>
+	  </emph>
           <w lemma="üksi" pos="D" msd="">üksi</w>
           <w lemma="ei" pos="V" msd="Neg">ei</w>
           <w lemma="võima|võinud" pos="A|V" msd="Pers.Prt.Ind.Neg|Pl.Nom|Sg.Nom">võinud</w>
@@ -822,13 +780,9 @@
           <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="see" pos="P" msd="Sg.Par">seda</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
+	  </emph>
           <w lemma="ju" pos="D" msd="">ju</w>
           <pc lemma="!" pos="Z" msd="">!</pc>
         </s>
@@ -836,13 +790,9 @@
           <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">Pean</w>
           <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
           <w lemma="seega" pos="D" msd="">seega</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="valetama|valetanud" pos="A|V" msd="Pers.Prt.Imprt|Pers.Prt.Ind.Neg|Pers.Prt.Prc|Pl.Nom|Sg.Nom">valetanud</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="valetama|valetanud" pos="A|V" msd="Pers.Prt.Imprt|Pers.Prt.Ind.Neg|Pers.Prt.Prc|Pl.Nom|Sg.Nom">valetanud</w>
+	  </emph>
           <w lemma="olema" pos="V" msd="Pers.Sup.Ill">olema</w>
           <pc lemma="(" pos="Z" msd="">(</pc>
           <pc lemma="!" pos="Z" msd="">!</pc>
@@ -875,13 +825,9 @@
           <w lemma="tahtma" pos="V" msd="Pers.Prs.Ind.Neg">taha</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.2.Aff">olete</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+	  </emph>
           <w lemma="see" pos="P" msd="Sg.Nom">see</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kes" pos="P" msd="Pl.Nom|Sg.Nom">kes</w>
@@ -994,16 +940,12 @@
           <w lemma="rääkima" pos="V" msd="Inf">rääkida</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="et" pos="J" msd="">et</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="tema" pos="P" msd="Sg.Gen">tema</w>
-        <w lemma="kuulus" pos="A" msd="Sg.Nom">kuulus</w>
-        <w lemma="mees" pos="S" msd="Sg.Nom">mees</w>
-        <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="tema" pos="P" msd="Sg.Gen">tema</w>
+            <w lemma="kuulus" pos="A" msd="Sg.Nom">kuulus</w>
+            <w lemma="mees" pos="S" msd="Sg.Nom">mees</w>
+            <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
+	  </emph>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="ja" pos="J" msd="">ja</w>
           <w lemma="mina" pos="S" msd="Sg.Nom">mina</w>
@@ -1287,13 +1229,9 @@
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="et" pos="J" msd="">et</w>
           <w lemma="mina" pos="S" msd="Sg.Nom">mina</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
+	  </emph>
           <w lemma="süda" pos="S" msd="Sg.Ela">südamest</w>
           <w lemma="nii" pos="D" msd="">nii</w>
           <w lemma="kergesti" pos="D" msd="">kergesti</w>
