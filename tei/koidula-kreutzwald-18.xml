@@ -1197,22 +1197,14 @@
           <w lemma="eestlane" pos="S" msd="Sg.Nom">eestlane</w>
           <w lemma="oma" pos="P" msd="Sg.Gen">oma</w>
           <w lemma="päritolemine" pos="S" msd="Sg.Par">päritolemist</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="ei" pos="V" msd="Neg">ei</w>
-        <w lemma="häbenema" pos="V" msd="Pers.Prs.Imprt.Sg.2|Pers.Prs.Ind.Neg">häbene</w>
-      </emph>
-      <div orig="ger">
-        <s>
-          <pc lemma="," pos="Z" msd="">,</pc>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="uhke" pos="A" msd="Sg.Nom">uhke</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="ei" pos="V" msd="Neg">ei</w>
+            <w lemma="häbenema" pos="V" msd="Pers.Prs.Imprt.Sg.2|Pers.Prs.Ind.Neg">häbene</w>
+	  </emph>
+	  <pc lemma="," pos="Z" msd="">,</pc>
+	  <emph type="underline">
+            <w lemma="uhke" pos="A" msd="Sg.Nom">uhke</w>
+	  </emph>
           <w lemma="pidama" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">peab</w>
           <w lemma="tema" pos="P" msd="Sg.Nom">ta</w>
           <w lemma="see" pos="P" msd="Sg.Gen">selle</w>
