@@ -1435,12 +1435,10 @@
           <w lemma="tegema" pos="V" msd="Inf">teha</w>
           <pc lemma="." pos="Z" msd="">.</pc>
         </s>
-      </div>
-      <emph type="underline">
-        <w lemma="siin" pos="D" msd="">Siin</w>
-      </emph>
-      <div orig="ger">
         <s>
+	  <emph type="underline">
+            <w lemma="siin" pos="D" msd="">Siin</w>
+	  </emph>
           <w lemma="lubama" pos="V" msd="Pers.Prs.Imprt.Pl.2">lubage</w>
           <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
           <w lemma="juba" pos="D" msd="">juba</w>
