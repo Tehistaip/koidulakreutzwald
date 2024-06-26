@@ -1506,13 +1506,9 @@
         <s>
           <pc lemma="&quot;" pos="Z" msd="">"</pc>
           <w lemma="küllap" pos="D" msd="">Küllap</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="mina" pos="P" msd="Pl.Gen">meie</w>
+	  </emph>
           <w lemma="tohtima" pos="V" msd="Pers.Prs.Ind.Pl.1.Aff">tohime</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kui" pos="D|J" msd="">kui</w>
@@ -1528,13 +1524,9 @@
           <w lemma="õigesti" pos="D" msd="">õigesti</w>
           <w lemma="hindama" pos="V" msd="Inf">hinnata</w>
           <pc lemma="-" pos="Z" msd="">—</pc>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="maailm" pos="S" msd="Sg.Nom">maailm</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="maailm" pos="S" msd="Sg.Nom">maailm</w>
+	  </emph>
           <w lemma="võtma" pos="V" msd="Pers.Prs.Ind.Sg.3.Aff">võtab</w>
           <w lemma="see" pos="P" msd="Sg.Ela">sellest</w>
           <pc lemma="," pos="Z" msd="">,</pc>
@@ -1762,7 +1754,7 @@
           <w lemma="sest" pos="J" msd="">sest</w>
         </s>
       </div>
-      <div orig="ger">
+      <div orig="ger" lang="ger">
         <s>
           <pc lemma="&quot;" pos="Z" msd="">"</pc>
           <w lemma="wer" pos="S" msd="Sg.Nom">wer</w>
@@ -1778,13 +1770,9 @@
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="ist" pos="S" msd="Sg.Nom">ist</w>
           <w lemma="ein" pos="S" msd="Sg.Nom">ein</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="barbar" pos="S" msd="Sg.Nom">Barbar</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="barbar" pos="S" msd="Sg.Nom">Barbar</w>
+	  </emph>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="er" pos="Y" msd="?">er</w>
           <w lemma="sei" pos="S" msd="Sg.Gen">sei</w>
