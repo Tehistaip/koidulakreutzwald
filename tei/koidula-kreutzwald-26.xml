@@ -1338,13 +1338,9 @@
           <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Neg">ole</w>
           <w lemma="see" pos="P" msd="Sg.Nom">see</w>
           <w lemma="raamat" pos="S" msd="Sg.Nom">raamat</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="kõik" pos="P" msd="Pl.Gen">kõikide</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="kõik" pos="P" msd="Pl.Gen">kõikide</w>
+	  </emph>
           <w lemma="jaoks" pos="K" msd="">jaoks</w>
           <w lemma="kirjutama|kirjutatud" pos="A|V" msd="Impers.Prt.Prc|Pl.Nom|Sg.Nom">kirjutatud</w>
           <pc lemma="." pos="Z" msd="">.</pc>
