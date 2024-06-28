@@ -811,13 +811,9 @@
           <w lemma="Lehel" pos="H" msd="Sg.Nom">Lehel</w>
           <w lemma="olema" pos="V" msd="Pers.Prs.Ind.Pl.3.Aff|Pers.Prs.Ind.Sg.3.Aff">on</w>
           <w lemma="ikkagi" pos="D" msd="">ikkagi</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="liig" pos="S" msd="Sg.Nom">liig</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="liig" pos="S" msd="Sg.Nom">liig</w>
+	  </emph>
           <w lemma="kahjulik" pos="A" msd="Sg.Nom">kahjulik</w>
           <w lemma="tendents" pos="S" msd="Sg.Nom">tendents</w>
           <pc lemma="." pos="Z" msd="">.</pc>
@@ -972,13 +968,9 @@
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kõrgesti" pos="D" msd="">kõrgesti</w>
           <w lemma="austama|austatud" pos="A|V" msd="Impers.Prt.Ind.Neg|Impers.Prt.Prc|Pl.Nom|Sg.Nom">austatud</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="sõber" pos="S" msd="Sg.Nom">sõber</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="sõber" pos="S" msd="Sg.Nom">sõber</w>
+	  </emph>
           <pc lemma="!" pos="Z" msd="">!</pc>
         </s>
         <s>
@@ -998,26 +990,20 @@
       <div orig="ger">
         <s>
           <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="süda" pos="S" msd="Sg.Ela">Südamest</w>
-        <w lemma="tulev" pos="A" msd="Sg.Ine">tulevas</w>
-        <w lemma="austus" pos="S" msd="Sg.Ine">austuses</w>
-        <w lemma="otsekoheselt" pos="D" msd="">otsekoheselt</w>
-        <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
-        <w lemma="poole" pos="K" msd="">poole</w>
-        <w lemma="hoidev" pos="A" msd="Sg.Nom">hoidev</w>
-        <w lemma="W" pos="Y" msd="?">W</w>
-        <pc lemma="[" pos="Z" msd="">[</pc>
-        <w lemma="illigero" pos="S" msd="Pl.Gen">illigerode</w>
-        <pc lemma="]" pos="Z" msd="">]</pc>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="süda" pos="S" msd="Sg.Ela">Südamest</w>
+            <w lemma="tulev" pos="A" msd="Sg.Ine">tulevas</w>
+            <w lemma="austus" pos="S" msd="Sg.Ine">austuses</w>
+            <w lemma="otsekoheselt" pos="D" msd="">otsekoheselt</w>
+            <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+            <w lemma="poole" pos="K" msd="">poole</w>
+            <w lemma="hoidev" pos="A" msd="Sg.Nom">hoidev</w>
+            <w lemma="W" pos="Y" msd="?">W</w>
+            <pc lemma="[" pos="Z" msd="">[</pc>
+            <w lemma="illigero" pos="S" msd="Pl.Gen">illigerode</w>
+            <pc lemma="]" pos="Z" msd="">]</pc>
+	  </emph>
           <pc lemma="." pos="Z" msd="">.</pc>
-        </s>
-        <s>
           <pc lemma="&quot;" pos="Z" msd="">"</pc>
         </s>
       </div>
