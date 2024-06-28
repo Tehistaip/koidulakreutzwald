@@ -2019,13 +2019,9 @@
           <pc lemma=":" pos="Z" msd="">:</pc>
           <w lemma="mina" pos="P" msd="Sg.Nom">ma</w>
           <w lemma="ei" pos="V" msd="Neg">ei</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="jaksama" pos="V" msd="Pers.Prs.Imprt.Sg.2|Pers.Prs.Ind.Neg">jaksa</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="jaksama" pos="V" msd="Pers.Prs.Imprt.Sg.2|Pers.Prs.Ind.Neg">jaksa</w>
+	  </emph>
           <w lemma="ütlema" pos="V" msd="Inf">öelda</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="missugune" pos="P" msd="Sg.Tra">missuguseks</w>
