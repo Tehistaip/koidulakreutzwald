@@ -929,13 +929,9 @@
           <w lemma="sina" pos="P" msd="Pl.Nom">Teie</w>
           <w lemma="iganes" pos="D" msd="">iganes</w>
           <w lemma="miski" pos="P" msd="Sg.Par">midagi</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="võõriti" pos="D" msd="">võõriti</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="võõriti" pos="D" msd="">võõriti</w>
+	  </emph>
           <w lemma="peale" pos="K" msd="">peale</w>
           <w lemma="hakanud|hakkama" pos="A|V" msd="Pers.Prt.Prc|Pl.Nom|Sg.Nom">hakanud</w>
           <pc lemma="?" pos="Z" msd="">?</pc>
@@ -1668,13 +1664,9 @@
           <w lemma="lugema" pos="V" msd="Inf">lugeda</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="kuid" pos="J" msd="">kuid</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+	  </emph>
           <w lemma="juures" pos="K" msd="">juures</w>
           <pc lemma="," pos="Z" msd="">,</pc>
           <w lemma="lootma" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">loodan</w>
