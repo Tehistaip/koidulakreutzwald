@@ -1029,13 +1029,9 @@
           <w lemma="arvamine" pos="S" msd="Sg.Nom">arvamine</w>
           <w lemma="olema" pos="V" msd="Pers.Prs.Cond">oleks</w>
           <w lemma="loomus" pos="S" msd="Sg.Gen">loomuse</w>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="laimamine" pos="S" msd="Sg.Nom">laimamine</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="laimamine" pos="S" msd="Sg.Nom">laimamine</w>
+	  </emph>
           <pc lemma="." pos="Z" msd="">.</pc>
         </s>
       </div>
@@ -1214,11 +1210,11 @@
           <pc lemma="!" pos="Z" msd="">!</pc>
         </s>
       </div>
-      <emph type="underline">
-        <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
-      </emph>
       <div orig="ger">
         <s>
+	  <emph type="underline">
+            <w lemma="sina" pos="P" msd="Pl.Gen">Teie</w>
+	  </emph>
           <w lemma="sõna" pos="S" msd="Pl.Gen">sõnade</w>
           <w lemma="valestimõistmine" pos="S" msd="Sg.Par">valestimõistmist</w>
           <w lemma="ei" pos="V" msd="Neg">ei</w>
