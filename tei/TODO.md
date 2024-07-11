@@ -24,3 +24,7 @@ for i in {1..7} ; do xsltproc -o name-$i.xml names.xsl kt-$i.xml ; done
 * 64-67
 * 69-74
 * 76-94
+
+## Protsesside järjekord
+
+* Kõigepealt liida algfailid, siis lahuta
