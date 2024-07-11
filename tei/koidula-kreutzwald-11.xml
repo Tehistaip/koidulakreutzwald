@@ -934,21 +934,15 @@
           <w lemma="kogunisti" pos="D" msd="">kogunisti</w>
           <w lemma="huvitav" pos="A" msd="Sg.Nom">huvitav</w>
           <pc lemma=":" pos="Z" msd="">:</pc>
-        </s>
-      </div>
-      <emph type="underline">
-        <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
-        <w lemma="ei" pos="V" msd="Neg">ei</w>
-        <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Neg">või</w>
-        <w lemma="siin" pos="D" msd="">siin</w>
-        <w lemma="üks" pos="N|P" msd="Sg.Nom">ükski</w>
-        <w lemma="aitama" pos="V" msd="Inf">aidata</w>
-      </emph>
-      <div orig="ger">
-        <s>
+	  <emph type="underline">
+            <w lemma="mina" pos="P" msd="Sg.Par">mind</w>
+            <w lemma="ei" pos="V" msd="Neg">ei</w>
+            <w lemma="võima" pos="V" msd="Pers.Prs.Ind.Neg">või</w>
+            <w lemma="siin" pos="D" msd="">siin</w>
+            <w lemma="üks" pos="N|P" msd="Sg.Nom">ükski</w>
+            <w lemma="aitama" pos="V" msd="Inf">aidata</w>
+	  </emph>
           <pc lemma="!" pos="Z" msd="">!</pc>
-        </s>
-        <s>
           <pc lemma="-" pos="Z" msd="">—</pc>
         </s>
       </div>

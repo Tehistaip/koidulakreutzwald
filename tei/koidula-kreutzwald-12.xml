@@ -1542,14 +1542,16 @@
       </div>
     </p>
     <p>
-      <emph type="underline">
-        <w lemma="Lydia" pos="H" msd="Sg.Nom">Lydia</w>
-        <w lemma="J" pos="Y" msd="?">J</w>
-        <pc lemma="[" pos="Z" msd="">[</pc>
-        <w lemma="annsen|annseni" pos="S" msd="Sg.All">annsenile</w>
-        <pc lemma="]" pos="Z" msd="">]</pc>
-        <pc lemma="." pos="Z" msd="">.</pc>
-      </emph>
+      <s>
+	<emph type="underline">
+          <w lemma="Lydia" pos="H" msd="Sg.Nom">Lydia</w>
+          <w lemma="J" pos="Y" msd="?">J</w>
+          <pc lemma="[" pos="Z" msd="">[</pc>
+          <w lemma="annsen|annseni" pos="S" msd="Sg.All">annsenile</w>
+          <pc lemma="]" pos="Z" msd="">]</pc>
+          <pc lemma="." pos="Z" msd="">.</pc>
+	</emph>
+      </s>
     </p>
     <p>
       <div orig="ger" lang="ger">

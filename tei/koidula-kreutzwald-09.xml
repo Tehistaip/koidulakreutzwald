@@ -269,19 +269,13 @@
           <w lemma="nägema" pos="V" msd="Pers.Prs.Ind.Sg.1.Aff">näen</w>
           <w lemma="dr" pos="Y" msd="?">dr.</w>
           <w lemma="Kreutzwald" pos="H" msd="Sg.Gen">Kreutzwaldi</w>
-        </s>
-      </div>
-      <div orig="ger">
-        <s>
-          <pc lemma="&quot;" pos="Z" msd="">"</pc>
-          <name type="B-PER">
-            <w lemma="Zweifelsucht" pos="H" msd="Sg.Nom">Zweifelsucht</w>
-          </name>
-          <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        </s>
-      </div>
-      <div orig="est">
-        <s>
+	  <div orig="ger" lang="ger">
+            <pc lemma="&quot;" pos="Z" msd="">"</pc>
+            <name type="B-PER">
+              <w lemma="Zweifelsucht" pos="H" msd="Sg.Nom">Zweifelsucht</w>
+            </name>
+            <pc lemma="&quot;" pos="Z" msd="">"</pc>
+	  </div>
           <w lemma="jälle" pos="D" msd="">jälle</w>
           <w lemma="huul" pos="S" msd="Pl.Ade">huultel</w>
           <w lemma="liikuv" pos="A" msd="Sg.Par">liikuvat</w>

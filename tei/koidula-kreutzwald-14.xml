@@ -4680,11 +4680,13 @@
       </div>
     </p>
     <p>
-      <emph type="underline">
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        <w lemma="Emasüda" pos="H" msd="Sg.Nom">Emasüda</w>
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-      </emph>
+      <s>
+	<emph type="underline">
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="Emasüda" pos="H" msd="Sg.Nom">Emasüda</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+	</emph>
+      </s>
     </p>
     <p>
       <div orig="est">
@@ -5064,13 +5066,15 @@
       </div>
     </p>
     <p>
-      <emph type="underline">
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        <w lemma="oh" pos="I" msd="">Oh</w>
-        <w lemma="armastama" pos="V" msd="Pers.Prs.Imprt.Sg.2">armasta</w>
-        <pc lemma="!" pos="Z" msd="">!</pc>
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-      </emph>
+      <s>
+	<emph type="underline">
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="oh" pos="I" msd="">Oh</w>
+          <w lemma="armastama" pos="V" msd="Pers.Prs.Imprt.Sg.2">armasta</w>
+          <pc lemma="!" pos="Z" msd="">!</pc>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+	</emph>
+      </s>
     </p>
     <p>
       <div orig="est">
@@ -6072,15 +6076,17 @@
       </div>
     </p>
     <p>
-      <emph type="underline">
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        <w lemma="isamaa" pos="S" msd="Sg.Nom">Isamaa</w>
-        <pc lemma="," pos="Z" msd="">,</pc>
-        <w lemma="usk" pos="S" msd="Sg.Nom">usk</w>
-        <pc lemma="," pos="Z" msd="">,</pc>
-        <w lemma="rahvas" pos="S" msd="Sg.Nom">rahvas</w>
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-      </emph>
+      <s>
+	<emph type="underline">
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="isamaa" pos="S" msd="Sg.Nom">Isamaa</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="usk" pos="S" msd="Sg.Nom">usk</w>
+          <pc lemma="," pos="Z" msd="">,</pc>
+          <w lemma="rahvas" pos="S" msd="Sg.Nom">rahvas</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+	</emph>
+      </s>
     </p>
     <p>
       <div orig="est">
@@ -6567,12 +6573,14 @@
       </div>
     </p>
     <p>
-      <emph type="underline">
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-        <w lemma="kasepuu" pos="S" msd="Sg.Nom">Kasepuu</w>
-        <pc lemma="&quot;" pos="Z" msd="">"</pc>
-      </emph>
-    </p>
+      <s>
+	<emph type="underline">
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <w lemma="kasepuu" pos="S" msd="Sg.Nom">Kasepuu</w>
+          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+	</emph>
+      </s>
+      </p>
     <p>
       <div orig="est">
         <s>

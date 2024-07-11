@@ -1,6 +1,6 @@
 <text xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <body>
-    <h2 author="KOIDULA" number="1" source="EKM EKLA, f 63, m 1:2, l. 1">1. KOIDULA KREUTZWALDILE</h2>
+    <h2 author="KOIDULA" number="1" source="EKM EKLA, f 63, m 1:2, l. 1" date="1867-11-07">1. KOIDULA KREUTZWALDILE</h2>
     <source>EKM EKLA, f 63, m 1:2, l. 1</source>
     <p>
       <div orig="toim">
@@ -651,7 +651,7 @@
           <w lemma="mõni" pos="P" msd="Sg.Nom">mõni</w>
           <w lemma="ninatark" pos="A" msd="Sg.Nom">ninatark</w>
           <w lemma="neitsi" pos="S" msd="Sg.Nom">neitsi</w>
-          <pc lemma="&quot;" pos="Z" msd="">"</pc>
+          <pc lemma="&quot;" pos="Z" msd="">&quot;</pc>
           <w lemma="nõel" pos="S" msd="Sg.Ela">nõelast</w>
           <w lemma="ja" pos="J" msd="">ja</w>
           <w lemma="sukavarras" pos="S" msd="Sg.Ela">sukavardast</w>
