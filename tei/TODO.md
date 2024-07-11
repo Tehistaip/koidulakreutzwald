@@ -110,5 +110,6 @@ Kõik koos teeb ära skript `nimeparandus.sh`.
  for i in {1..94} ; do cat name-$i.xml; done |less
 ```
 
+# Järg
 
-
+* 33
