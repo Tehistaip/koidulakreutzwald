@@ -84,4 +84,30 @@ Tulemusfail **ei sisalda** `h2` elemente ja **sisaldab** `text` elemente.
  for i in {1..94} ; do xsltproc -o kt-$i.xml --param target $i lammuta.xsl koidulakreutzwald.xml ; done
 ```
 
+### Nimede parandus kokku
+
+```
+xsltproc -o koidulakreutzwald-kokku.xml merger.xsl collection.xml 
+
+xsltproc -o koidulakreutzwald-prevert.xml noemph.xsl koidulakreutzwald-kokku.xml 
+
+~/GIT/Varblane/varblane/tei2vrt.py -l ~/GIT/github/Tehistaip/koidulakreutzwald/tei/koidulakreutzwald-prevert.xml ~/GIT/github/Tehistaip/koidulakreutzwald/tei/koidulakreutzwalt-prevert.vrt
+
+~/GIT/Varblane/varblane/dateadjust.py ~/GIT/github/Tehistaip/koidulakreutzwald/tei/koidulakreutzwald-prevert.xml ~/GIT/github/Tehistaip/koidulakreutzwald/tei/koidulakreutzwald.xml -m ~/GIT/github/Tehistaip/koidulakreutzwald/tei/koidulakreutzwald-metadata.tsv
+
+for i in {1..94} ; do xsltproc -o kt-$i.xml --param target $i lammuta.xsl koidulakreutzwald.xml ; done
+
+for i in {1..94} ; do xsltproc -o name-$i.xml names.xsl kt-$i.xml ; done
+
+
+```
+ 
+ 
+### Nimede paranduse vaatamine
+ 
+```
+ for i in {1..94} ; do cat name-$i.xml; done |less
+```
+
+
 
