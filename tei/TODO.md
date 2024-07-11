@@ -99,8 +99,9 @@ for i in {1..94} ; do xsltproc -o kt-$i.xml --param target $i lammuta.xsl koidul
 
 for i in {1..94} ; do xsltproc -o name-$i.xml names.xsl kt-$i.xml ; done
 
-
 ```
+
+Kõik koos teeb ära skript `nimeparandus.sh`. 
  
  
 ### Nimede paranduse vaatamine
